@@ -1,0 +1,3988 @@
+[
+  {
+    "title": "Deep Learning Techniques for Cervical Cancer Diagnosis based on\n  Pathology and Colposcopy Images",
+    "authors": [
+      "\nHana Ahmadzadeh Sarhangi\n",
+      "\nDorsa Beigifard\n",
+      "\nElahe Farmani\n",
+      "\nHamidreza Bolhasani\n"
+    ],
+    "published": "2023-10-25T14:23:40Z",
+    "summary": "  Cervical cancer is a prevalent disease affecting millions of women worldwide\nevery year. It requires significant attention, as early detection during the\nprecancerous stage provides an opportunity for a cure. The screening and\ndiagnosis of cervical cancer rely on cytology and colposcopy methods. Deep\nlearning, a promising technology in computer vision, has emerged as a potential\nsolution to improve the accuracy and efficiency of cervical cancer screening\ncompared to traditional clinical inspection methods that are prone to human\nerror. This review article discusses cervical cancer and its screening\nprocesses, followed by the Deep Learning training process and the\nclassification, segmentation, and detection tasks for cervical cancer\ndiagnosis. Additionally, we explored the most common public datasets used in\nboth cytology and colposcopy and highlighted the popular and most utilized\narchitectures that researchers have applied to both cytology and colposcopy. We\nreviewed 24 selected practical papers in this study and summarized them. This\narticle highlights the remarkable efficiency in enhancing the precision and\nspeed of cervical cancer analysis by Deep Learning, bringing us closer to early\ndiagnosis and saving lives.\n",
+    "source": "arXiv",
+    "relevance_score": 50,
+    "links": {
+      "main": "http://arxiv.org/abs/2310.16662v1",
+      "pdf": "http://arxiv.org/pdf/2310.16662v1"
+    }
+  },
+  {
+    "title": "Predictive factors associated with survival rate of cervical cancer\n  patients in Brunei Darussalam",
+    "authors": [
+      "\nFadhliah Madli\n",
+      "\nElvynna Leong\n",
+      "\nSok King Ong\n",
+      "\nEdwin Lim\n",
+      "\nKhairul Amilin Tengah\n"
+    ],
+    "published": "2021-10-21T05:32:36Z",
+    "summary": "  Introduction: Cervical cancer is the third most prevalent cancer among women\nin Brunei Darussalam. This study aims to report the overall survival rates and\nassociated factors of patients diagnosed with malignant cervical cancer in\nBrunei Darussalam. Methods: A retrospective study of patients diagnosed with\ncervical cancer from 2007 to 2017 in Brunei Darussalam. The data were obtained\nfrom the population-based cancer registry in Brunei Darussalam. Kaplan- Meier\nsurvival analysis was used to estimate the overall survival rates at 1-, 3- and\n5-year intervals while the log-rank test was used to assess differences in\nsurvival between groups. Cox Proportional Hazard (PH) regression analysis was\nused to examine the association of demographic and clinical factors on the\nsurvival of cervical cancer patients. Results: A total of 329 registered\nmalignant cervical cancer cases were analyzed. The mean age at diagnosis of\npatients with cervical cancer was 46.7 years. There were 28.6% deaths and the\noverall survival rates at 1, 3 and 5 years were 85.4%, 72.6% and 68.6%\nrespectively. Age at diagnosis, cancer stage and histology types were\nsignificant predictive factors for overall survival of the patients diagnosed\nwith cervical cancers when analysed on both log rank tests and Cox PH model.\nConclusion: Age at diagnosis, cancer stage and histology types were\nsignificantly associated with the overall survival rates of cervical cancer\npatients in Brunei Darussalam. Early detection and management of cervical\ncancer at early stages should be prioritized to improve the survival rate and\nquality of cancer care.\n",
+    "source": "arXiv",
+    "relevance_score": 44,
+    "links": {
+      "main": "http://arxiv.org/abs/2110.12057v1",
+      "pdf": "http://arxiv.org/pdf/2110.12057v1"
+    }
+  },
+  {
+    "title": "Prevalence and Associated Factors of Human Papillomavirus Infection\n  among Iraqi Women",
+    "authors": [
+      "\nMaitham G. Yousif\n",
+      "\nFadhil G. Al-Amran\n",
+      "\nAlaa M. Sadeq\n",
+      "\nNasser Ghaly Yousif\n"
+    ],
+    "published": "2023-07-27T12:25:42Z",
+    "summary": "  Human papillomavirus (HPV) is a significant public health concern, as it is a\nleading cause of cervical cancer in women. However, data on the prevalence of\nHPV infection among Iraqi women is scarce. This study aimed to estimate the\nprevalence of HPV infection and its associated factors among Iraqi women aged\n15-50 attending health centers. In this cross-sectional study, 362 female\nparticipants aged 15-50 were recruited from health centers in Iraq. Serological\ntests were used to screen for HPV infection. Sociodemographic information,\nobstetric history, and contraceptive use were collected. Pap smears were\nperformed to assess cervical changes related to HPV infection. Of the 362\nparticipants, 65 (17.96%) tested positive for HPV. The majority of HPV-positive\nwomen were aged 30-35 years, housewives, and belonged to lower social classes.\nAmong HPV-positive women, 30% had abnormal Pap smears, with 55% diagnosed with\ncervical intraepithelial neoplasia grade 1 (CIN1), 25% with CIN2, and 15% with\nCIN3. Biopsy confirmed the diagnosis in 5% of cases. No significant association\nwas found between HPV infection and contraceptive use. Most HPV-positive women\nwere multiparous. This study reveals a considerable prevalence of HPV infection\namong Iraqi women attending health centers, particularly in the age group of\n30-35 years and among housewives. These findings highlight the need for\ntargeted public health interventions to increase HPV awareness, promote regular\nscreening, and improve access to healthcare services for women, especially\nthose from lower social classes. Further research is warranted to better\nunderstand the factors contributing to HPV transmission in Iraq and to develop\neffective prevention strategies.\n",
+    "source": "arXiv",
+    "relevance_score": 36,
+    "links": {
+      "main": "http://arxiv.org/abs/2307.14806v1",
+      "pdf": "http://arxiv.org/pdf/2307.14806v1"
+    }
+  },
+  {
+    "title": "Cervical Cancer Detection Using Multi-Branch Deep Learning Model",
+    "authors": [
+      "\nTatsuhiro Baba\n",
+      "\nAbu Saleh Musa Miah\n",
+      "\nJungpil Shin\n",
+      "\nMd. Al Mehedi Hasan\n"
+    ],
+    "published": "2024-08-20T02:44:48Z",
+    "summary": "  Cervical cancer is a crucial global health concern for women, and the\npersistent infection of High-risk HPV mainly triggers this remains a global\nhealth challenge, with young women diagnosis rates soaring from 10\\% to 40\\%\nover three decades. While Pap smear screening is a prevalent diagnostic method,\nvisual image analysis can be lengthy and often leads to mistakes. Early\ndetection of the disease can contribute significantly to improving patient\noutcomes. In recent decades, many researchers have employed machine learning\ntechniques that achieved promise in cervical cancer detection processes based\non medical images. In recent years, many researchers have employed various\ndeep-learning techniques to achieve high-performance accuracy in detecting\ncervical cancer but are still facing various challenges. This research proposes\nan innovative and novel approach to automate cervical cancer image\nclassification using Multi-Head Self-Attention (MHSA) and convolutional neural\nnetworks (CNNs). The proposed method leverages the strengths of both MHSA\nmechanisms and CNN to effectively capture both local and global features within\ncervical images in two streams. MHSA facilitates the model's ability to focus\non relevant regions of interest, while CNN extracts hierarchical features that\ncontribute to accurate classification. Finally, we combined the two stream\nfeatures and fed them into the classification module to refine the feature and\nthe classification. To evaluate the performance of the proposed approach, we\nused the SIPaKMeD dataset, which classifies cervical cells into five\ncategories. Our model achieved a remarkable accuracy of 98.522\\%. This\nperformance has high recognition accuracy of medical image classification and\nholds promise for its applicability in other medical image recognition tasks.\n",
+    "source": "arXiv",
+    "relevance_score": 33,
+    "links": {
+      "main": "http://arxiv.org/abs/2408.10498v1",
+      "pdf": "http://arxiv.org/pdf/2408.10498v1"
+    }
+  },
+  {
+    "title": "Dinamics of HPV Infection among Women with Cervical Lesions",
+    "authors": [
+      "\nE. Nikitina\n",
+      "\nL. Urazova\n",
+      "\nO. Churuksaeva\n"
+    ],
+    "published": "2011-11-07T06:45:46Z",
+    "summary": "  A total of 293 women treated at Tomsk Cancer Research Institute were\nexamined. HPV type 16 had the highest incidence rate (45.0%) followed by HPV\n31-17,0%, HPV 56/33-15,0%, HPV 51/18/52-13,0%, HPV 58/35/39/45-7,0%, HPV\n59-5,0%. Persistent infection was detected in 35.7% of primarily HPV-positive\ncases (10 out of 28 patients), mainly in cervical cancer patients. Total number\nof primarily HPV-positive and HPV-negative patients with cervical cancer was\n95.0% and 5.0%, respectively. The corresponding values after the complex\ntreatment were 35.0% and 65.0%, respectively, pointing to the treatment\nefficiency.\n",
+    "source": "arXiv",
+    "relevance_score": 32,
+    "links": {
+      "main": "http://arxiv.org/abs/1111.1496v1",
+      "pdf": "http://arxiv.org/pdf/1111.1496v1"
+    }
+  },
+  {
+    "title": "Deep Learning Descriptor Hybridization with Feature Reduction for\n  Accurate Cervical Cancer Colposcopy Image Classification",
+    "authors": [
+      "\nSaurabh Saini\n",
+      "\nKapil Ahuja\n",
+      "\nSiddartha Chennareddy\n",
+      "\nKarthik Boddupalli\n"
+    ],
+    "published": "2024-05-01T06:05:13Z",
+    "summary": "  Cervical cancer stands as a predominant cause of female mortality,\nunderscoring the need for regular screenings to enable early diagnosis and\npreemptive treatment of pre-cancerous conditions. The transformation zone in\nthe cervix, where cellular differentiation occurs, plays a critical role in the\ndetection of abnormalities. Colposcopy has emerged as a pivotal tool in\ncervical cancer prevention since it provides a meticulous examination of\ncervical abnormalities. However, challenges in visual evaluation necessitate\nthe development of Computer Aided Diagnosis (CAD) systems.\n  We propose a novel CAD system that combines the strengths of various\ndeep-learning descriptors (ResNet50, ResNet101, and ResNet152) with appropriate\nfeature normalization (min-max) as well as feature reduction technique (LDA).\nThe combination of different descriptors ensures that all the features\n(low-level like edges and colour, high-level like shape and texture) are\ncaptured, feature normalization prevents biased learning, and feature reduction\navoids overfitting. We do experiments on the IARC dataset provided by WHO. The\ndataset is initially segmented and balanced. Our approach achieves exceptional\nperformance in the range of 97%-100% for both the normal-abnormal and the type\nclassification. A competitive approach for type classification on the same\ndataset achieved 81%-91% performance.\n",
+    "source": "arXiv",
+    "relevance_score": 30,
+    "links": {
+      "main": "http://arxiv.org/abs/2405.01600v1",
+      "pdf": "http://arxiv.org/pdf/2405.01600v1"
+    }
+  },
+  {
+    "title": "Recent trends and analysis of Generative Adversarial Networks in\n  Cervical Cancer Imaging",
+    "authors": [
+      "\nTamanna Sood\n"
+    ],
+    "published": "2022-09-23T05:45:40Z",
+    "summary": "  Cervical cancer is one of the most common types of cancer found in females.\nIt contributes to 6-29% of all cancers in women. It is caused by the Human\nPapilloma Virus (HPV). The 5-year survival chances of cervical cancer range\nfrom 17%-92% depending upon the stage at which it is detected. Early detection\nof this disease helps in better treatment and survival rate of the patient.\nMany deep learning algorithms are being used for the detection of cervical\ncancer these days. A special category of deep learning techniques known as\nGenerative Adversarial Networks (GANs) are catching up with speed in the\nscreening, detection, and classification of cervical cancer. In this work, we\npresent a detailed analysis of the recent trends relating to the use of various\nGAN models, their applications, and the evaluation metrics used for their\nperformance evaluation in the field of cervical cancer imaging.\n",
+    "source": "arXiv",
+    "relevance_score": 30,
+    "links": {
+      "doi": "http://dx.doi.org/10.14704/nq.2022.20.9.NQ44381",
+      "main": "http://arxiv.org/abs/2209.12680v1",
+      "pdf": "http://arxiv.org/pdf/2209.12680v1"
+    }
+  },
+  {
+    "title": "Multi-Modality and Temporal Analysis of Cervical Cancer Treatment\n  Response",
+    "authors": [
+      "\nHaotian Feng\n",
+      "\nEmi Yoshida\n",
+      "\nKe Sheng\n"
+    ],
+    "published": "2024-08-23T23:32:52Z",
+    "summary": "  Cervical cancer presents a significant global health challenge, necessitating\nadvanced diagnostic and prognostic approaches for effective treatment. This\npaper investigates the potential of employing multi-modal medical imaging at\nvarious treatment stages to enhance cervical cancer treatment outcomes\nprediction. We show that among Gray Level Co-occurrence Matrix (GLCM) features,\ncontrast emerges as the most effective texture feature regarding prediction\naccuracy. Integration of multi-modal imaging and texture analysis offers a\npromising avenue for personalized and targeted interventions, as well as more\neffective management of cervical cancer. Moreover, there is potential to reduce\nthe number of time measurements and modalities in future cervical cancer\ntreatment. This research contributes to advancing the field of precision\ndiagnostics by leveraging the information embedded in noninvasive medical\nimages, contributing to improving prognostication and optimizing therapeutic\nstrategies for individuals diagnosed with cervical cancer.\n",
+    "source": "arXiv",
+    "relevance_score": 30,
+    "links": {
+      "main": "http://arxiv.org/abs/2408.13408v1",
+      "pdf": "http://arxiv.org/pdf/2408.13408v1"
+    }
+  },
+  {
+    "title": "CerviXpert: A Multi-Structural Convolutional Neural Network for\n  Predicting Cervix Type and Cervical Cell Abnormalities",
+    "authors": [
+      "\nRashik Shahriar Akash\n",
+      "\nRadiful Islam\n",
+      "\nS. M. Saiful Islam Badhon\n",
+      "\nK. S. M. Tozammel Hossain\n"
+    ],
+    "published": "2024-09-10T05:08:26Z",
+    "summary": "  Cervical cancer is a major cause of cancer-related mortality among women\nworldwide, and its survival rate improves significantly with early detection.\nTraditional diagnostic methods such as Pap smears and cervical biopsies rely\nheavily on cytologist expertise, making the process prone to human error. This\nstudy introduces CerviXpert, a multi-structural convolutional neural network\nmodel designed to efficiently classify cervix types and detect cervical cell\nabnormalities. CerviXpert is built as a computationally efficient model that\nclassifies cervical cancer using images from the publicly available SiPaKMeD\ndataset. The model architecture emphasizes simplicity, using a limited number\nof convolutional layers followed by max pooling and dense layers, trained from\nscratch.\n  We assessed the performance of CerviXpert against other state of the art\nconvolutional neural network models including ResNet50, VGG16, MobileNetV2, and\nInceptionV3, evaluating them on accuracy, computational efficiency, and\nrobustness using five fold cross validation. CerviXpert achieved an accuracy of\n98.04 percent in classifying cervical cell abnormalities into three classes and\n98.60 percent for five class cervix type classification, outperforming\nMobileNetV2 and InceptionV3 in both accuracy and computational requirements. It\nshowed comparable results to ResNet50 and VGG16 while reducing computational\ncomplexity and resource needs.\n  CerviXpert provides an effective solution for cervical cancer screening and\ndiagnosis, balancing accuracy with computational efficiency. Its streamlined\ndesign enables deployment in resource constrained environments, potentially\nenhancing early detection and management of cervical cancer.\n",
+    "source": "arXiv",
+    "relevance_score": 30,
+    "links": {
+      "doi": "http://dx.doi.org/10.1177/20552076241295440",
+      "main": "http://arxiv.org/abs/2409.06220v2",
+      "pdf": "http://arxiv.org/pdf/2409.06220v2"
+    }
+  },
+  {
+    "title": "Generalizable Cervical Cancer Screening via Large-scale Pretraining and\n  Test-Time Adaptation",
+    "authors": [
+      "\nHao Jiang\n",
+      "\nCheng Jin\n",
+      "\nHuangjing Lin\n",
+      "\nYanning Zhou\n",
+      "\nXi Wang\n",
+      "\nJiabo Ma\n",
+      "\nLi Ding\n",
+      "\nJun Hou\n",
+      "\nRunsheng Liu\n",
+      "\nZhizhong Chai\n",
+      "\nLuyang Luo\n",
+      "\nHuijuan Shi\n",
+      "\nYinling Qian\n",
+      "\nQiong Wang\n",
+      "\nChangzhong Li\n",
+      "\nAnjia Han\n",
+      "\nRonald Cheong Kin Chan\n",
+      "\nHao Chen\n"
+    ],
+    "published": "2025-02-12T09:47:39Z",
+    "summary": "  Cervical cancer is a leading malignancy in female reproductive system. While\nAI-assisted cytology offers a cost-effective and non-invasive screening\nsolution, current systems struggle with generalizability in complex clinical\nscenarios. To address this issue, we introduced Smart-CCS, a generalizable\nCervical Cancer Screening paradigm based on pretraining and adaptation to\ncreate robust and generalizable screening systems. To develop and validate\nSmart-CCS, we first curated a large-scale, multi-center dataset named CCS-127K,\nwhich comprises a total of 127,471 cervical cytology whole-slide images\ncollected from 48 medical centers. By leveraging large-scale self-supervised\npretraining, our CCS models are equipped with strong generalization capability,\npotentially generalizing across diverse scenarios. Then, we incorporated\ntest-time adaptation to specifically optimize the trained CCS model for complex\nclinical settings, which adapts and refines predictions, improving real-world\napplicability. We conducted large-scale system evaluation among various\ncohorts. In retrospective cohorts, Smart-CCS achieved an overall area under the\ncurve (AUC) value of 0.965 and sensitivity of 0.913 for cancer screening on 11\ninternal test datasets. In external testing, system performance maintained high\nat 0.950 AUC across 6 independent test datasets. In prospective cohorts, our\nSmart-CCS achieved AUCs of 0.947, 0.924, and 0.986 in three prospective\ncenters, respectively. Moreover, the system demonstrated superior sensitivity\nin diagnosing cervical cancer, confirming the accuracy of our cancer screening\nresults by using histology findings for validation. Interpretability analysis\nwith cell and slide predictions further indicated that the system's\ndecision-making aligns with clinical practice. Smart-CCS represents a\nsignificant advancement in cancer screening across diverse clinical contexts.\n",
+    "source": "arXiv",
+    "relevance_score": 30,
+    "links": {
+      "main": "http://arxiv.org/abs/2502.09662v1",
+      "pdf": "http://arxiv.org/pdf/2502.09662v1"
+    }
+  },
+  {
+    "title": "DeepCervix: A Deep Learning-based Framework for the Classification of\n  Cervical Cells Using Hybrid Deep Feature Fusion Techniques",
+    "authors": [
+      "\nMd Mamunur Rahaman\n",
+      "\nChen Li\n",
+      "\nYudong Yao\n",
+      "\nFrank Kulwa\n",
+      "\nXiangchen Wu\n",
+      "\nXiaoyan Li\n",
+      "\nQian Wang\n"
+    ],
+    "published": "2021-02-24T10:34:51Z",
+    "summary": "  Cervical cancer, one of the most common fatal cancers among women, can be\nprevented by regular screening to detect any precancerous lesions at early\nstages and treat them. Pap smear test is a widely performed screening technique\nfor early detection of cervical cancer, whereas this manual screening method\nsuffers from high false-positive results because of human errors. To improve\nthe manual screening practice, machine learning (ML) and deep learning (DL)\nbased computer-aided diagnostic (CAD) systems have been investigated widely to\nclassify cervical pap cells. Most of the existing researches require\npre-segmented images to obtain good classification results, whereas accurate\ncervical cell segmentation is challenging because of cell clustering. Some\nstudies rely on handcrafted features, which cannot guarantee the classification\nstage's optimality. Moreover, DL provides poor performance for a multiclass\nclassification task when there is an uneven distribution of data, which is\nprevalent in the cervical cell dataset. This investigation has addressed those\nlimitations by proposing DeepCervix, a hybrid deep feature fusion (HDFF)\ntechnique based on DL to classify the cervical cells accurately. Our proposed\nmethod uses various DL models to capture more potential information to enhance\nclassification performance. Our proposed HDFF method is tested on the publicly\navailable SIPAKMED dataset and compared the performance with base DL models and\nthe LF method. For the SIPAKMED dataset, we have obtained the state-of-the-art\nclassification accuracy of 99.85%, 99.38%, and 99.14% for 2-class, 3-class, and\n5-class classification. Moreover, our method is tested on the Herlev dataset\nand achieves an accuracy of 98.32% for binary class and 90.32% for 7-class\nclassification.\n",
+    "source": "arXiv",
+    "relevance_score": 28,
+    "links": {
+      "doi": "http://dx.doi.org/10.1016/j.compbiomed.2021.104649",
+      "main": "http://arxiv.org/abs/2102.12191v2",
+      "pdf": "http://arxiv.org/pdf/2102.12191v2"
+    }
+  },
+  {
+    "title": "New Insight in Cervical Cancer Diagnosis Using Convolution Neural\n  Network Architecture",
+    "authors": [
+      "\nAch. Khozaimi\n",
+      "\nWayan Firdaus Mahmudy\n"
+    ],
+    "published": "2024-10-23T10:11:39Z",
+    "summary": "  The Pap smear is a screening method for early cervical cancer diagnosis. The\nselection of the right optimizer in the convolutional neural network (CNN)\nmodel is key to the success of the CNN in image classification, including the\nclassification of cervical cancer Pap smear images. In this study, stochastic\ngradient descent (SGD), RMSprop, Adam, AdaGrad, AdaDelta, Adamax, and Nadam\noptimizers were used to classify cervical cancer Pap smear images from the\nSipakMed dataset. Resnet-18, Resnet-34, and VGG-16 are the CNN architectures\nused in this study, and each architecture uses a transfer-learning model. Based\non the test results, we conclude that the transfer learning model performs\nbetter on all CNNs and optimization techniques and that in the transfer\nlearning model, the optimization has little influence on the training of the\nmodel. Adamax, with accuracy values of 72.8% and 66.8%, had the best accuracy\nfor the VGG-16 and Resnet-18 architectures, respectively. Resnet-34 had 54.0%.\nThis is 0.034% lower than Nadam. Overall, Adamax is a suitable optimizer for\nCNN in cervical cancer classification on Resnet-18, Resnet-34, and VGG-16\narchitectures. This study provides new insights into the configuration of CNN\nmodels for Pap smear image analysis.\n",
+    "source": "arXiv",
+    "relevance_score": 27,
+    "links": {
+      "doi": "http://dx.doi.org/10.11591/ijai.v13.i3.pp3092-3100",
+      "main": "http://arxiv.org/abs/2410.17735v1",
+      "pdf": "http://arxiv.org/pdf/2410.17735v1"
+    }
+  },
+  {
+    "title": "Algorithms for screening of Cervical Cancer: A chronological review",
+    "authors": [
+      "\nYasha Singh\n",
+      "\nDhruv Srivastava\n",
+      "\nP. S. Chandranand\n",
+      "\nDr. Surinder Singh\n"
+    ],
+    "published": "2018-11-02T13:31:27Z",
+    "summary": "  There are various algorithms and methodologies used for automated screening\nof cervical cancer by segmenting and classifying cervical cancer cells into\ndifferent categories. This study presents a critical review of different\nresearch papers published that integrated AI methods in screening cervical\ncancer via different approaches analyzed in terms of typical metrics like\ndataset size, drawbacks, accuracy etc. An attempt has been made to furnish the\nreader with an insight of Machine Learning algorithms like SVM (Support Vector\nMachines), GLCM (Gray Level Co-occurrence Matrix), k-NN (k-Nearest Neighbours),\nMARS (Multivariate Adaptive Regression Splines), CNNs (Convolutional Neural\nNetworks), spatial fuzzy clustering algorithms, PNNs (Probabilistic Neural\nNetworks), Genetic Algorithm, RFT (Random Forest Trees), C5.0, CART\n(Classification and Regression Trees) and Hierarchical clustering algorithm for\nfeature extraction, cell segmentation and classification. This paper also\ncovers the publicly available datasets related to cervical cancer. It presents\na holistic review on the computational methods that have evolved over the\nperiod of time, in chronological order in detection of malignant cells.\n",
+    "source": "arXiv",
+    "relevance_score": 26,
+    "links": {
+      "main": "http://arxiv.org/abs/1811.00849v1",
+      "pdf": "http://arxiv.org/pdf/1811.00849v1"
+    }
+  },
+  {
+    "title": "CerviFormer: A Pap-smear based cervical cancer classification method\n  using cross attention and latent transformer",
+    "authors": [
+      "\nBhaswati Singha Deo\n",
+      "\nMayukha Pal\n",
+      "\nPrasanta K. Panigarhi\n",
+      "\nAsima Pradhan\n"
+    ],
+    "published": "2023-03-17T19:34:54Z",
+    "summary": "  Purpose: Cervical cancer is one of the primary causes of death in women. It\nshould be diagnosed early and treated according to the best medical advice, as\nwith other diseases, to ensure that its effects are as minimal as possible. Pap\nsmear images are one of the most constructive ways for identifying this type of\ncancer. This study proposes a cross-attention-based Transfomer approach for the\nreliable classification of cervical cancer in Pap smear images. Methods: In\nthis study, we propose the CerviFormer -- a model that depends on the\nTransformers and thereby requires minimal architectural assumptions about the\nsize of the input data. The model uses a cross-attention technique to\nrepeatedly consolidate the input data into a compact latent Transformer module,\nwhich enables it to manage very large-scale inputs. We evaluated our model on\ntwo publicly available Pap smear datasets. Results: For 3-state classification\non the Sipakmed data, the model achieved an accuracy of 93.70%. For 2-state\nclassification on the Herlev data, the model achieved an accuracy of 94.57%.\nConclusion: Experimental results on two publicly accessible datasets\ndemonstrate that the proposed method achieves competitive results when compared\nto contemporary approaches. The proposed method brings forth a comprehensive\nclassification model to detect cervical cancer in Pap smear images. This may\naid medical professionals in providing better cervical cancer treatment,\nconsequently, enhancing the overall effectiveness of the entire testing\nprocess.\n",
+    "source": "arXiv",
+    "relevance_score": 25,
+    "links": {
+      "main": "http://arxiv.org/abs/2303.10222v1",
+      "pdf": "http://arxiv.org/pdf/2303.10222v1"
+    }
+  },
+  {
+    "title": "Elimination of Specular reflection and Identification of ROI: The First\n  Step in Automated Detection of Cervical Cancer using Digital Colposcopy",
+    "authors": [
+      "\nAbhishek Das\n",
+      "\nAvijit Kar\n",
+      "\nDebasis Bhattacharyya\n"
+    ],
+    "published": "2011-04-12T17:49:19Z",
+    "summary": "  Cervical Cancer is one of the most common forms of cancer in women worldwide.\nMost cases of cervical cancer can be prevented through screening programs aimed\nat detecting precancerous lesions. During Digital Colposcopy, Specular\nReflections (SR) appear as bright spots heavily saturated with white light.\nThese occur due to the presence of moisture on the uneven cervix surface, which\nact like mirrors reflecting light from the illumination source. Apart from\ncamouflaging the actual features, the SR also affects subsequent segmentation\nroutines and hence must be removed. Our novel technique eliminates the SR and\nmakes the colposcopic images (cervigram) ready for segmentation algorithms. The\ncervix region occupies about half of the cervigram image. Other parts of the\nimage contain irrelevant information, such as equipment, frames, text and\nnon-cervix tissues. This irrelevant information can confuse automatic\nidentification of the tissues within the cervix. The first step is, therefore,\nfocusing on the cervical borders, so that we have a geometric boundary on the\nrelevant image area. We have proposed a type of modified kmeans clustering\nalgorithm to evaluate the region of interest.\n",
+    "source": "arXiv",
+    "relevance_score": 24,
+    "links": {
+      "doi": "http://dx.doi.org/10.1109/IST.2011.5962218",
+      "main": "http://arxiv.org/abs/1104.2285v3",
+      "pdf": "http://arxiv.org/pdf/1104.2285v3"
+    }
+  },
+  {
+    "title": "Identification of Cervical Pathology using Adversarial Neural Networks",
+    "authors": [
+      "\nAbhilash Nandy\n",
+      "\nRachana Sathish\n",
+      "\nDebdoot Sheet\n"
+    ],
+    "published": "2020-04-28T10:22:16Z",
+    "summary": "  Various screening and diagnostic methods have led to a large reduction of\ncervical cancer death rates in developed countries. However, cervical cancer is\nthe leading cause of cancer related deaths in women in India and other low and\nmiddle income countries (LMICs) especially among the urban poor and slum\ndwellers. Several sophisticated techniques such as cytology tests, HPV tests\netc. have been widely used for screening of cervical cancer. These tests are\ninherently time consuming. In this paper, we propose a convolutional\nautoencoder based framework, having an architecture similar to SegNet which is\ntrained in an adversarial fashion for classifying images of the cervix acquired\nusing a colposcope. We validate performance on the Intel-Mobile ODT cervical\nimage classification dataset. The proposed method outperforms the standard\ntechnique of fine-tuning convolutional neural networks pre-trained on ImageNet\ndatabase with an average accuracy of 73.75%.\n",
+    "source": "arXiv",
+    "relevance_score": 24,
+    "links": {
+      "main": "http://arxiv.org/abs/2004.13406v1",
+      "pdf": "http://arxiv.org/pdf/2004.13406v1"
+    }
+  },
+  {
+    "title": "A Novel Automation-Assisted Cervical Cancer Reading Method Based on\n  Convolutional Neural Network",
+    "authors": [
+      "\nYao Xiang\n",
+      "\nWanxin Sun\n",
+      "\nChangli Pan\n",
+      "\nMeng Yan\n",
+      "\nZhihua Yin\n",
+      "\nYixiong Liang\n"
+    ],
+    "published": "2019-12-14T07:26:42Z",
+    "summary": "  While most previous automation-assisted reading methods can improve\nefficiency, their performance often relies on the success of accurate cell\nsegmentation and hand-craft feature extraction. This paper presents an\nefficient and totally segmentation-free method for automated cervical cell\nscreening that utilizes modern object detector to directly detect cervical\ncells or clumps, without the design of specific hand-crafted feature.\nSpecifically, we use the state-of-the-art CNN-based object detection methods,\nYOLOv3, as our baseline model. In order to improve the classification\nperformance of hard examples which are four highly similar categories, we\ncascade an additional task-specific classifier. We also investigate the\npresence of unreliable annotations and cope with them by smoothing the\ndistribution of noisy labels. We comprehensively evaluate our methods on test\nset which is consisted of 1,014 annotated cervical cell images with size of\n4000*3000 and complex cellular situation corresponding to 10 categories. Our\nmodel achieves 97.5% sensitivity (Sens) and 67.8% specificity (Spec) on\ncervical cell image-level screening. Moreover, we obtain a mean Average\nPrecision (mAP) of 63.4% on cervical cell-level diagnosis, and improve the\nAverage Precision (AP) of hard examples which are valuable but difficult to\ndistinguish. Our automation-assisted cervical cell reading method not only\nachieves cervical cell image-level classification but also provides more\ndetailed location and category information of abnormal cells. The results\nindicate feasible performance of our method, together with the efficiency and\nrobustness, providing a new idea for future development of computer-assisted\nreading system in clinical cervical screening.\n",
+    "source": "arXiv",
+    "relevance_score": 24,
+    "links": {
+      "main": "http://arxiv.org/abs/1912.06649v1",
+      "pdf": "http://arxiv.org/pdf/1912.06649v1"
+    }
+  },
+  {
+    "title": "From primary HPV infection to carcinoma in situ: a mathematical approach\n  of cervical intraepithelial neoplasia",
+    "authors": [
+      "\nVasiliki Bitsouni\n",
+      "\nNikolaos Gialelis\n",
+      "\nIoannis G. Stratis\n",
+      "\nVasilis Tsilidis\n"
+    ],
+    "published": "2024-03-20T04:57:38Z",
+    "summary": "  Cervical intraepithelial neoplasia (CIN) is the development of abnormal cells\non the surface of the cervix, caused by a human papillomavirus (HPV) infection.\nAlthough in most of the cases it is resolved by the immune system, a small\npercentage of people might develop a more serious CIN which, if left untreated,\ncan develop into cervical cancer. Cervical cancer is the fourth most common\ncancer in women globally, for which the World Health Organization (WHO)\nrecently adopted the Global Strategy for cervical cancer elimination by 2030.\nWith this research topic being more imperative than ever, in this paper, we\ndevelop a nonlinear mathematical model describing the CIN progression. The\nmodel consists of partial differential equations describing the dynamics of\nepithelial, dysplastic and immune cells, as well as the dynamics of viral\nparticles. We use our model to explore numerically three important factors of\ndysplasia progression, namely the geometry of the cervix, the strength of the\nimmune response and the frequency of viral exposure.\n",
+    "source": "arXiv",
+    "relevance_score": 23,
+    "links": {
+      "main": "http://arxiv.org/abs/2403.13302v1",
+      "pdf": "http://arxiv.org/pdf/2403.13302v1"
+    }
+  },
+  {
+    "title": "Two-stage Cytopathological Image Synthesis for Augmenting Cervical\n  Abnormality Screening",
+    "authors": [
+      "\nZhenrong Shen\n",
+      "\nManman Fei\n",
+      "\nXin Wang\n",
+      "\nJiangdong Cai\n",
+      "\nSheng Wang\n",
+      "\nLichi Zhang\n",
+      "\nQian Wang\n"
+    ],
+    "published": "2024-02-22T17:06:47Z",
+    "summary": "  Automatic thin-prep cytologic test (TCT) screening can assist pathologists in\nfinding cervical abnormality towards accurate and efficient cervical cancer\ndiagnosis. Current automatic TCT screening systems mostly involve abnormal\ncervical cell detection, which generally requires large-scale and diverse\ntraining data with high-quality annotations to achieve promising performance.\nPathological image synthesis is naturally raised to minimize the efforts in\ndata collection and annotation. However, it is challenging to generate\nrealistic large-size cytopathological images while simultaneously synthesizing\nvisually plausible appearances for small-size abnormal cervical cells. In this\npaper, we propose a two-stage image synthesis framework to create synthetic\ndata for augmenting cervical abnormality screening. In the first Global Image\nGeneration stage, a Normal Image Generator is designed to generate\ncytopathological images full of normal cervical cells. In the second Local Cell\nEditing stage, normal cells are randomly selected from the generated images and\nthen are converted to different types of abnormal cells using the proposed\nAbnormal Cell Synthesizer. Both Normal Image Generator and Abnormal Cell\nSynthesizer are built upon Stable Diffusion, a pre-trained foundation model for\nimage synthesis, via parameter-efficient fine-tuning methods for customizing\ncytopathological image contents and extending spatial layout controllability,\nrespectively. Our experiments demonstrate the synthetic image quality,\ndiversity, and controllability of the proposed synthesis framework, and\nvalidate its data augmentation effectiveness in enhancing the performance of\nabnormal cervical cell detection.\n",
+    "source": "arXiv",
+    "relevance_score": 23,
+    "links": {
+      "main": "http://arxiv.org/abs/2402.14707v2",
+      "pdf": "http://arxiv.org/pdf/2402.14707v2"
+    }
+  },
+  {
+    "title": "Preprocessing for Automating Early Detection of Cervical Cancer",
+    "authors": [
+      "\nAbhishek Das\n",
+      "\nAvijit Kar\n",
+      "\nDebasis Bhattacharyya\n"
+    ],
+    "published": "2011-05-22T17:06:59Z",
+    "summary": "  Uterine Cervical Cancer is one of the most common forms of cancer in women\nworldwide. Most cases of cervical cancer can be prevented through screening\nprograms aimed at detecting precancerous lesions. During Digital Colposcopy,\ncolposcopic images or cervigrams are acquired in raw form. They contain\nspecular reflections which appear as bright spots heavily saturated with white\nlight and occur due to the presence of moisture on the uneven cervix surface\nand. The cervix region occupies about half of the raw cervigram image. Other\nparts of the image contain irrelevant information, such as equipment, frames,\ntext and non-cervix tissues. This irrelevant information can confuse automatic\nidentification of the tissues within the cervix. Therefore we focus on the\ncervical borders, so that we have a geometric boundary on the relevant image\narea. Our novel technique eliminates the SR, identifies the region of interest\nand makes the cervigram ready for segmentation algorithms.\n",
+    "source": "arXiv",
+    "relevance_score": 21,
+    "links": {
+      "doi": "http://dx.doi.org/10.1109/IV.2011.89",
+      "main": "http://arxiv.org/abs/1105.4354v2",
+      "pdf": "http://arxiv.org/pdf/1105.4354v2"
+    }
+  },
+  {
+    "title": "An Explainable Attention Model for Cervical Precancer Risk\n  Classification using Colposcopic Images",
+    "authors": [
+      "\nSmith K. Khare\n",
+      "\nBerit Bargum Booth\n",
+      "\nVictoria Blanes-Vidal\n",
+      "\nLone Kjeld Petersen\n",
+      "\nEsmaeil S. Nadimi\n"
+    ],
+    "published": "2024-11-14T14:18:40Z",
+    "summary": "  Cervical cancer remains a major worldwide health issue, with early\nidentification and risk assessment playing critical roles in effective\npreventive interventions. This paper presents the Cervix-AID-Net model for\ncervical precancer risk classification. The study designs and evaluates the\nproposed Cervix-AID-Net model based on patients colposcopy images. The model\ncomprises a Convolutional Block Attention Module (CBAM) and convolutional\nlayers that extract interpretable and representative features of colposcopic\nimages to distinguish high-risk and low-risk cervical precancer. In addition,\nthe proposed Cervix-AID-Net model integrates four explainable techniques,\nnamely gradient class activation maps, Local Interpretable Model-agnostic\nExplanations, CartoonX, and pixel rate distortion explanation based on output\nfeature maps and input features. The evaluation using holdout and ten-fold\ncross-validation techniques yielded a classification accuracy of 99.33\\% and\n99.81\\%. The analysis revealed that CartoonX provides meticulous explanations\nfor the decision of the Cervix-AID-Net model due to its ability to provide the\nrelevant piece-wise smooth part of the image. The effect of Gaussian noise and\nblur on the input shows that the performance remains unchanged up to Gaussian\nnoise of 3\\% and blur of 10\\%, while the performance reduces thereafter. A\ncomparison study of the proposed model's performance compared to other deep\nlearning approaches highlights the Cervix-AID-Net model's potential as a\nsupplemental tool for increasing the effectiveness of cervical precancer risk\nassessment. The proposed method, which incorporates the CBAM and explainable\nartificial integration, has the potential to influence cervical cancer\nprevention and early detection, improving patient outcomes and lowering the\nworldwide burden of this preventable disease.\n",
+    "source": "arXiv",
+    "relevance_score": 21,
+    "links": {
+      "main": "http://arxiv.org/abs/2411.09469v1",
+      "pdf": "http://arxiv.org/pdf/2411.09469v1"
+    }
+  },
+  {
+    "title": "Polymerized Feature-based Domain Adaptation for Cervical Cancer Dose Map\n  Prediction",
+    "authors": [
+      "\nJie Zeng\n",
+      "\nZeyu Han\n",
+      "\nXingchen Peng\n",
+      "\nJianghong Xiao\n",
+      "\nPeng Wang\n",
+      "\nYan Wang\n"
+    ],
+    "published": "2023-08-20T03:00:27Z",
+    "summary": "  Recently, deep learning (DL) has automated and accelerated the clinical\nradiation therapy (RT) planning significantly by predicting accurate dose maps.\nHowever, most DL-based dose map prediction methods are data-driven and not\napplicable for cervical cancer where only a small amount of data is available.\nTo address this problem, this paper proposes to transfer the rich knowledge\nlearned from another cancer, i.e., rectum cancer, which has the same scanning\narea and more clinically available data, to improve the dose map prediction\nperformance for cervical cancer through domain adaptation. In order to close\nthe congenital domain gap between the source (i.e., rectum cancer) and the\ntarget (i.e., cervical cancer) domains, we develop an effective\nTransformer-based polymerized feature module (PFM), which can generate an\noptimal polymerized feature distribution to smoothly align the two input\ndistributions. Experimental results on two in-house clinical datasets\ndemonstrate the superiority of the proposed method compared with\nstate-of-the-art methods.\n",
+    "source": "arXiv",
+    "relevance_score": 20,
+    "links": {
+      "main": "http://arxiv.org/abs/2308.10142v1",
+      "pdf": "http://arxiv.org/pdf/2308.10142v1"
+    }
+  },
+  {
+    "title": "A Voting-Stacking Ensemble of Inception Networks for Cervical Cytology\n  Classification",
+    "authors": [
+      "\nLinyi Qian\n",
+      "\nQian Huang\n",
+      "\nYulin Chen\n",
+      "\nJunzhou Chen\n"
+    ],
+    "published": "2023-08-05T03:21:12Z",
+    "summary": "  Cervical cancer is one of the most severe diseases threatening women's\nhealth. Early detection and diagnosis can significantly reduce cancer risk, in\nwhich cervical cytology classification is indispensable. Researchers have\nrecently designed many networks for automated cervical cancer diagnosis, but\nthe limited accuracy and bulky size of these individual models cannot meet\npractical application needs. To address this issue, we propose a\nVoting-Stacking ensemble strategy, which employs three Inception networks as\nbase learners and integrates their outputs through a voting ensemble. The\nsamples misclassified by the ensemble model generate a new training set on\nwhich a linear classification model is trained as the meta-learner and performs\nthe final predictions. In addition, a multi-level Stacking ensemble framework\nis designed to improve performance further. The method is evaluated on the\nSIPakMed, Herlev, and Mendeley datasets, achieving accuracies of 100%, 100%,\nand 100%, respectively. The experimental results outperform the current\nstate-of-the-art (SOTA) methods, demonstrating its potential for reducing\nscreening workload and helping pathologists detect cervical cancer.\n",
+    "source": "arXiv",
+    "relevance_score": 20,
+    "links": {
+      "main": "http://arxiv.org/abs/2308.02781v2",
+      "pdf": "http://arxiv.org/pdf/2308.02781v2"
+    }
+  },
+  {
+    "title": "A Whole Slide Image Grading Benchmark and Tissue Classification for\n  Cervical Cancer Precursor Lesions with Inter-Observer Variability",
+    "authors": [
+      "\nAbdulkadir Albayrak\n",
+      "\nAsli Unlu\n",
+      "\nNurullah Calik\n",
+      "\nAbdulkerim Capar\n",
+      "\nGokhan Bilgin\n",
+      "\nBehcet Ugur Toreyin\n",
+      "\nBahar Muezzinoglu\n",
+      "\nIlknur Turkmen\n",
+      "\nLutfiye Durak-Ata\n"
+    ],
+    "published": "2018-12-26T07:40:37Z",
+    "summary": "  The cervical cancer developing from the precancerous lesions caused by the\nHuman Papilloma Virus (HPV) has been one of the preventable cancers with the\nhelp of periodic screening. There are two types of grading conventions widely\naccepted among pathologists. On the other hand, inter-observer variability is\nan important issue for final diagnosis. In this paper, a whole-slide image\ngrading benchmark for cervical cancer precursor lesions is introduced. The\npapillae of the cervical epithelium and overlapping cell problems are handled\nand a tissue classification method with a novel morphological feature\nexploiting the relative orientation between the BM and the major axis of all\nnuclei is developed and its performance is evaluated. Besides, the\ninter-observer variability is also revealed by a thorough comparison among\npathologists' decisions, as well as, the final diagnosis.\n",
+    "source": "arXiv",
+    "relevance_score": 20,
+    "links": {
+      "doi": "http://dx.doi.org/10.1007/s11517-021-02388-w",
+      "main": "http://arxiv.org/abs/1812.10256v1",
+      "pdf": "http://arxiv.org/pdf/1812.10256v1"
+    }
+  },
+  {
+    "title": "Cervical Optical Coherence Tomography Image Classification Based on\n  Contrastive Self-Supervised Texture Learning",
+    "authors": [
+      "\nKaiyi Chen\n",
+      "\nQingbin Wang\n",
+      "\nYutao Ma\n"
+    ],
+    "published": "2021-08-11T07:52:59Z",
+    "summary": "  Background: Cervical cancer seriously affects the health of the female\nreproductive system. Optical coherence tomography (OCT) emerged as a\nnon-invasive, high-resolution imaging technology for cervical disease\ndetection. However, OCT image annotation is knowledge-intensive and\ntime-consuming, which impedes the training process of deep-learning-based\nclassification models. Purpose: This study aims to develop a computer-aided\ndiagnosis (CADx) approach to classifying in-vivo cervical OCT images based on\nself-supervised learning. Methods: In addition to high-level semantic features\nextracted by a convolutional neural network (CNN), the proposed CADx approach\nleverages unlabeled cervical OCT images' texture features learned by\ncontrastive texture learning. We conducted ten-fold cross-validation on the OCT\nimage dataset from a multi-center clinical study on 733 patients from China.\nResults: In a binary classification task for detecting high-risk diseases,\nincluding high-grade squamous intraepithelial lesion and cervical cancer, our\nmethod achieved an area-under-the-curve value of 0.9798 plus or minus 0.0157\nwith a sensitivity of 91.17 plus or minus 4.99% and a specificity of 93.96 plus\nor minus 4.72% for OCT image patches; also, it outperformed two out of four\nmedical experts on the test set. Furthermore, our method achieved a 91.53%\nsensitivity and 97.37% specificity on an external validation dataset containing\n287 3D OCT volumes from 118 Chinese patients in a new hospital using a\ncross-shaped threshold voting strategy. Conclusions: The proposed\ncontrastive-learning-based CADx method outperformed the end-to-end CNN models\nand provided better interpretability based on texture features, which holds\ngreat potential to be used in the clinical protocol of \"see-and-treat.\"\n",
+    "source": "arXiv",
+    "relevance_score": 20,
+    "links": {
+      "doi": "http://dx.doi.org/10.1002/mp.15630",
+      "main": "http://arxiv.org/abs/2108.05081v3",
+      "pdf": "http://arxiv.org/pdf/2108.05081v3"
+    }
+  },
+  {
+    "title": "Forecasting per-patient dosimetric benefit from daily online adaptive\n  radiotherapy for cervical cancer",
+    "authors": [
+      "\nRupesh Ghimire\n",
+      "\nKevin L. Moore\n",
+      "\nDaniela Branco\n",
+      "\nDominique L. Rash\n",
+      "\nJyoti Mayadev\n",
+      "\nXenia Ray\n"
+    ],
+    "published": "2022-12-19T18:15:55Z",
+    "summary": "  Adaptive Radiotherapy (ART) is an emerging technique for treating cancer\npatients which facilitates higher delivery accuracy and has the potential to\nreduce toxicity. However, ART is also resource-intensive, requiring extra human\nand machine time compared to standard treatment methods. In this analysis, we\nsought to predict the subset of node-negative cervical cancer patients who\nbenefit the most from ART. CT images, initial plan data, and on-treatment\nCone-Beam CT (CBCT) images for 20 retrospective cervical cancer patients were\nused to simulate doses from daily non-adaptive and adaptive techniques. We\nevaluated the correlation (R$^2$) between dose and volume metrics from initial\ntreatment plans and the dosimetric benefits to the Bowel V$_{40Gy}$, Bowel\nV$_{45Gy}$, Bladder D$_{mean}$, and Rectum D$_{mean}$ from adaptive\nradiotherapy using reduced 3mm or 5mm CTV-to-PTV margins. The LASSO technique\nwas used to identify the most predictive metrics for Bowel V$_{40Gy}$. The\nthree highest performing metrics were used to build multivariate models with\nleave-one-out validation for Bowel V$_{40Gy}$. Patients with higher initial\nbowel doses were correlated with the largest decreases in Bowel V$_{40Gy}$ from\ndaily adaptation (linear best fit R$^2$=0.77 for a 3mm PTV margin and R$^2$=0.8\nfor a 5mm PTV margin). Other metrics had intermediate or no correlation.\nSelected covariates for the multivariate model were differences in the initial\nBowel V$_{40Gy}$. and Bladder D$_{mean}$ using standard versus reduced margins\nand the initial bladder volume. Leave-one-out validation had an R$^2$ of 0.66\nbetween the predicted and true adaptive Bowel V$_{40Gy}$ benefits for both\nmargins. This work could be used to prospectively triage cervical cancer\npatients, and presents a critical foundation for predicting benefits from daily\nadaptation that can be extended to other patient cohorts.\n",
+    "source": "arXiv",
+    "relevance_score": 20,
+    "links": {
+      "main": "http://arxiv.org/abs/2212.09687v1",
+      "pdf": "http://arxiv.org/pdf/2212.09687v1"
+    }
+  },
+  {
+    "title": "CVM-Cervix: A Hybrid Cervical Pap-Smear Image Classification Framework\n  Using CNN, Visual Transformer and Multilayer Perceptron",
+    "authors": [
+      "\nWanli Liu\n",
+      "\nChen Li\n",
+      "\nNing Xu\n",
+      "\nTao Jiang\n",
+      "\nMd Mamunur Rahaman\n",
+      "\nHongzan Sun\n",
+      "\nXiangchen Wu\n",
+      "\nWeiming Hu\n",
+      "\nHaoyuan Chen\n",
+      "\nChanghao Sun\n",
+      "\nYudong Yao\n",
+      "\nMarcin Grzegorzek\n"
+    ],
+    "published": "2022-06-02T10:16:07Z",
+    "summary": "  Cervical cancer is the seventh most common cancer among all the cancers\nworldwide and the fourth most common cancer among women. Cervical cytopathology\nimage classification is an important method to diagnose cervical cancer. Manual\nscreening of cytopathology images is time-consuming and error-prone. The\nemergence of the automatic computer-aided diagnosis system solves this problem.\nThis paper proposes a framework called CVM-Cervix based on deep learning to\nperform cervical cell classification tasks. It can analyze pap slides quickly\nand accurately. CVM-Cervix first proposes a Convolutional Neural Network module\nand a Visual Transformer module for local and global feature extraction\nrespectively, then a Multilayer Perceptron module is designed to fuse the local\nand global features for the final classification. Experimental results show the\neffectiveness and potential of the proposed CVM-Cervix in the field of cervical\nPap smear image classification. In addition, according to the practical needs\nof clinical work, we perform a lightweight post-processing to compress the\nmodel.\n",
+    "source": "arXiv",
+    "relevance_score": 19,
+    "links": {
+      "main": "http://arxiv.org/abs/2206.00971v1",
+      "pdf": "http://arxiv.org/pdf/2206.00971v1"
+    }
+  },
+  {
+    "title": "Comparative Analysis of Machine Learning and Deep Learning Models for\n  Classifying Squamous Epithelial Cells of the Cervix",
+    "authors": [
+      "\nSubhasish Das\n",
+      "\nSatish K Panda\n",
+      "\nMadhusmita Sethy\n",
+      "\nPrajna Paramita Giri\n",
+      "\nAshwini K Nanda\n"
+    ],
+    "published": "2024-11-20T18:37:01Z",
+    "summary": "  The cervix is the narrow end of the uterus that connects to the vagina in the\nfemale reproductive system. Abnormal cell growth in the squamous epithelial\nlining of the cervix leads to cervical cancer in females. A Pap smear is a\ndiagnostic procedure used to detect cervical cancer by gently collecting cells\nfrom the surface of the cervix with a small brush and analyzing their changes\nunder a microscope. For population-based cervical cancer screening, visual\ninspection with acetic acid is a cost-effective method with high sensitivity.\nHowever, Pap smears are also suitable for mass screening due to their higher\nspecificity. The current Pap smear analysis method is manual, time-consuming,\nlabor-intensive, and prone to human error. Therefore, an artificial\nintelligence (AI)-based approach for automatic cell classification is needed.\nIn this study, we aimed to classify cells in Pap smear images into five\ncategories: superficial-intermediate, parabasal, koilocytes, dyskeratotic, and\nmetaplastic. Various machine learning (ML) algorithms, including Gradient\nBoosting, Random Forest, Support Vector Machine, and k-Nearest Neighbor, as\nwell as deep learning (DL) approaches like ResNet-50, were employed for this\nclassification task. The ML models demonstrated high classification accuracy;\nhowever, ResNet-50 outperformed the others, achieving a classification accuracy\nof 93.06%. This study highlights the efficiency of DL models for cell-level\nclassification and their potential to aid in the early diagnosis of cervical\ncancer from Pap smear images.\n",
+    "source": "arXiv",
+    "relevance_score": 19,
+    "links": {
+      "main": "http://arxiv.org/abs/2411.13535v1",
+      "pdf": "http://arxiv.org/pdf/2411.13535v1"
+    }
+  },
+  {
+    "title": "Portinari: A Data Exploration Tool to Personalize Cervical Cancer\n  Screening",
+    "authors": [
+      "\nSagar Sen\n",
+      "\nManoel Horta Ribeiro\n",
+      "\nRaquel C. de Melo Minardi\n",
+      "\nWagner Meira Jr.\n",
+      "\nMari Nigard\n"
+    ],
+    "published": "2017-04-01T14:24:21Z",
+    "summary": "  Socio-technical systems play an important role in public health screening\nprograms to prevent cancer. Cervical cancer incidence has significantly\ndecreased in countries that developed systems for organized screening engaging\nmedical practitioners, laboratories and patients. The system automatically\nidentifies individuals at risk of developing the disease and invites them for a\nscreening exam or a follow-up exam conducted by medical professionals. A triage\nalgorithm in the system aims to reduce unnecessary screening exams for\nindividuals at low-risk while detecting and treating individuals at high-risk.\nDespite the general success of screening, the triage algorithm is a\none-size-fits all approach that is not personalized to a patient. This can\neasily be observed in historical data from screening exams. Often patients rely\non personal factors to determine that they are either at high risk or not at\nrisk at all and take action at their own discretion. Can exploring patient\ntrajectories help hypothesize personal factors leading to their decisions? We\npresent Portinari, a data exploration tool to query and visualize future\ntrajectories of patients who have undergone a specific sequence of screening\nexams. The web-based tool contains (a) a visual query interface (b) a backend\ngraph database of events in patients' lives (c) trajectory visualization using\nsankey diagrams. We use Portinari to explore diverse trajectories of patients\nfollowing the Norwegian triage algorithm. The trajectories demonstrated\nvariable degrees of adherence to the triage algorithm and allowed\nepidemiologists to hypothesize about the possible causes.\n",
+    "source": "arXiv",
+    "relevance_score": 18,
+    "links": {
+      "main": "http://arxiv.org/abs/1704.00172v1",
+      "pdf": "http://arxiv.org/pdf/1704.00172v1"
+    }
+  },
+  {
+    "title": "CNN-based Approach for Cervical Cancer Classification in Whole-Slide\n  Histopathology Images",
+    "authors": [
+      "\nFerdaous Idlahcen\n",
+      "\nMohammed Majid Himmi\n",
+      "\nAbdelhak Mahmoudi\n"
+    ],
+    "published": "2020-05-28T11:45:23Z",
+    "summary": "  Cervical cancer will cause 460 000 deaths per year by 2040, approximately 90%\nare Sub-Saharan African women. A constantly increasing incidence in Africa\nmaking cervical cancer a priority by the World Health Organization (WHO) in\nterms of screening, diagnosis, and treatment. Conventionally, cancer diagnosis\nrelies primarily on histopathological assessment, a deeply error-prone\nprocedure requiring intelligent computer-aided systems as low-cost patient\nsafety mechanisms but lack of labeled data in digital pathology limits their\napplicability. In this study, few cervical tissue digital slides from TCGA data\nportal were pre-processed to overcome whole-slide images obstacles and included\nin our proposed VGG16-CNN classification approach. Our results achieved an\naccuracy of 98,26% and an F1-score of 97,9%, which confirm the potential of\ntransfer learning on this weakly-supervised task.\n",
+    "source": "arXiv",
+    "relevance_score": 18,
+    "links": {
+      "main": "http://arxiv.org/abs/2005.13924v1",
+      "pdf": "http://arxiv.org/pdf/2005.13924v1"
+    }
+  },
+  {
+    "title": "A Bayesian accelerated failure time model for interval censored\n  three-state screening outcomes",
+    "authors": [
+      "\nThomas Klausch\n",
+      "\nEddymurphy U. Akwiwu\n",
+      "\nMark A. van de Wiel\n",
+      "\nVeerle M. H. Coupe\n",
+      "\nJohannes Berkhof\n"
+    ],
+    "published": "2021-10-06T10:50:37Z",
+    "summary": "  Women infected by the Human papilloma virus are at an increased risk to\ndevelop cervical intraepithalial neoplasia lesions (CIN). CIN are classified\ninto three grades of increasing severity (CIN-1, CIN-2, and CIN-3) and can\neventually develop into cervical cancer. The main purpose of screening is\ndetecting CIN-2 and CIN-3 cases which are usually surgically removed. Screening\ndata from the POBASCAM trial involving 1,454 HPV-positive women is analyzed\nwith two objectives: estimate (a) the transition time from HPV diagnosis to\nCIN-3; and (b) the transition time from CIN-2 to CIN-3. The screening data have\ntwo key characteristics. First, the CIN state is monitored in an\ninterval-censored sequence of screening times. Second, a woman's progression to\nCIN-3 is only observed, if the woman progresses to, both, CIN-2 and from CIN-2\nto CIN-3 in the same screening interval. We propose a Bayesian accelerated\nfailure time model for the two transition times in this three-state model. To\ndeal with the unusual censoring structure of the screening data, we develop a\nMetropolis-within-Gibbs algorithm with data augmentation from the truncated\ntransition time distributions.\n",
+    "source": "arXiv",
+    "relevance_score": 18,
+    "links": {
+      "main": "http://arxiv.org/abs/2110.02649v2",
+      "pdf": "http://arxiv.org/pdf/2110.02649v2"
+    }
+  },
+  {
+    "title": "Prototypical Cross-domain Knowledge Transfer for Cervical Dysplasia\n  Visual Inspection",
+    "authors": [
+      "\nYichen Zhang\n",
+      "\nYifang Yin\n",
+      "\nYing Zhang\n",
+      "\nZhenguang Liu\n",
+      "\nZheng Wang\n",
+      "\nRoger Zimmermann\n"
+    ],
+    "published": "2023-08-19T11:25:09Z",
+    "summary": "  Early detection of dysplasia of the cervix is critical for cervical cancer\ntreatment. However, automatic cervical dysplasia diagnosis via visual\ninspection, which is more appropriate in low-resource settings, remains a\nchallenging problem. Though promising results have been obtained by recent deep\nlearning models, their performance is significantly hindered by the limited\nscale of the available cervix datasets. Distinct from previous methods that\nlearn from a single dataset, we propose to leverage cross-domain cervical\nimages that were collected in different but related clinical studies to improve\nthe model's performance on the targeted cervix dataset. To robustly learn the\ntransferable information across datasets, we propose a novel prototype-based\nknowledge filtering method to estimate the transferability of cross-domain\nsamples. We further optimize the shared feature space by aligning the\ncross-domain image representations simultaneously on domain level with early\nalignment and class level with supervised contrastive learning, which endows\nmodel training and knowledge transfer with stronger robustness. The empirical\nresults on three real-world benchmark cervical image datasets show that our\nproposed method outperforms the state-of-the-art cervical dysplasia visual\ninspection by an absolute improvement of 4.7% in top-1 accuracy, 7.0% in\nprecision, 1.4% in recall, 4.6% in F1 score, and 0.05 in ROC-AUC.\n",
+    "source": "arXiv",
+    "relevance_score": 17,
+    "links": {
+      "doi": "http://dx.doi.org/10.1145/3581783.3612000",
+      "main": "http://arxiv.org/abs/2308.09983v1",
+      "pdf": "http://arxiv.org/pdf/2308.09983v1"
+    }
+  },
+  {
+    "title": "Bone marrow sparing for cervical cancer radiotherapy on multimodality\n  medical images",
+    "authors": [
+      "\nYuening Wang\n",
+      "\nYing Sun\n",
+      "\nJie Yuan\n",
+      "\nKexin Gan\n",
+      "\nHanzi Xu\n",
+      "\nHan Gao\n",
+      "\nXiuming Zhang\n"
+    ],
+    "published": "2022-04-20T07:40:01Z",
+    "summary": "  Cervical cancer threatens the health of women seriously. Radiotherapy is one\nof the main therapy methods but with high risk of acute hematologic toxicity.\nDelineating the bone marrow (BM) for sparing using computer tomography (CT)\nimages to plan before radiotherapy can effectively avoid this risk. Comparing\nwith magnetic resonance (MR) images, CT lacks the ability to express the\nactivity of BM. Thus, in current clinical practice, medical practitioners\nmanually delineate the BM on CT images by corresponding to MR images. However,\nthe time?consuming delineating BM by hand cannot guarantee the accuracy due to\nthe inconsistency of the CT-MR multimodal images. In this study, we propose a\nmultimodal image oriented automatic registration method for pelvic BM sparing,\nwhich consists of three-dimensional bone point cloud reconstruction, a local\nspherical system iteration closest point registration for marking BM on CT\nimages. Experiments on patient dataset reveal that our proposed method can\nenhance the multimodal image registration accuracy and efficiency for medical\npractitioners in sparing BM of cervical cancer radiotherapy. The method\nproposed in this contribution might also provide references for similar studies\nin other clinical application.\n",
+    "source": "arXiv",
+    "relevance_score": 16,
+    "links": {
+      "main": "http://arxiv.org/abs/2204.09278v1",
+      "pdf": "http://arxiv.org/pdf/2204.09278v1"
+    }
+  },
+  {
+    "title": "Holistic and Historical Instance Comparison for Cervical Cell Detection",
+    "authors": [
+      "\nHao Jiang\n",
+      "\nRunsheng Liu\n",
+      "\nYanning Zhou\n",
+      "\nHuangjing Lin\n",
+      "\nHao Chen\n"
+    ],
+    "published": "2024-09-21T02:36:19Z",
+    "summary": "  Cytology screening from Papanicolaou (Pap) smears is a common and effective\ntool for the preventive clinical management of cervical cancer, where abnormal\ncell detection from whole slide images serves as the foundation for reporting\ncervical cytology. However, cervical cell detection remains challenging due to\n1) hazily-defined cell types (e.g., ASC-US) with subtle morphological\ndiscrepancies caused by the dynamic cancerization process, i.e., cell class\nambiguity, and 2) imbalanced class distributions of clinical data may cause\nmissed detection, especially for minor categories, i.e., cell class imbalance.\nTo this end, we propose a holistic and historical instance comparison approach\nfor cervical cell detection. Specifically, we first develop a holistic instance\ncomparison scheme enforcing both RoI-level and class-level cell discrimination.\nThis coarse-to-fine cell comparison encourages the model to learn\nforeground-distinguishable and class-wise representations. To emphatically\nimprove the distinguishability of minor classes, we then introduce a historical\ninstance comparison scheme with a confident sample selection-based memory bank,\nwhich involves comparing current embeddings with historical embeddings for\nbetter cell instance discrimination. Extensive experiments and analysis on two\nlarge-scale cytology datasets including 42,592 and 114,513 cervical cells\ndemonstrate the effectiveness of our method. The code is available at\nhttps://github.com/hjiangaz/HERO.\n",
+    "source": "arXiv",
+    "relevance_score": 16,
+    "links": {
+      "main": "http://arxiv.org/abs/2409.13987v1",
+      "pdf": "http://arxiv.org/pdf/2409.13987v1"
+    }
+  },
+  {
+    "title": "Deep Cervix Model Development from Heterogeneous and Partially Labeled\n  Image Datasets",
+    "authors": [
+      "\nAnabik Pal\n",
+      "\nZhiyun Xue\n",
+      "\nSameer Antani\n"
+    ],
+    "published": "2022-01-18T14:24:50Z",
+    "summary": "  Cervical cancer is the fourth most common cancer in women worldwide. The\navailability of a robust automated cervical image classification system can\naugment the clinical care provider's limitation in traditional visual\ninspection with acetic acid (VIA). However, there are a wide variety of\ncervical inspection objectives which impact the labeling criteria for\ncriteria-specific prediction model development. Moreover, due to the lack of\nconfirmatory test results and inter-rater labeling variation, many images are\nleft unlabeled.\n  Motivated by these challenges, we propose a self-supervised learning (SSL)\nbased approach to produce a pre-trained cervix model from unlabeled cervical\nimages. The developed model is further fine-tuned to produce criteria-specific\nclassification models with the available labeled images. We demonstrate the\neffectiveness of the proposed approach using two cervical image datasets. Both\ndatasets are partially labeled and labeling criteria are different. The\nexperimental results show that the SSL-based initialization improves\nclassification performance (Accuracy: 2.5% min) and the inclusion of images\nfrom both datasets during SSL further improves the performance (Accuracy: 1.5%\nmin). Further, considering data-sharing restrictions, we experimented with the\neffectiveness of Federated SSL and find that it can improve performance over\nthe SSL model developed with just its images. This justifies the importance of\nSSL-based cervix model development. We believe that the present research shows\na novel direction in developing criteria-specific custom deep models for\ncervical image classification by combining images from different sources\nunlabeled and/or labeled with varying criteria, and addressing image access\nrestrictions.\n",
+    "source": "arXiv",
+    "relevance_score": 15,
+    "links": {
+      "main": "http://arxiv.org/abs/2201.07013v1",
+      "pdf": "http://arxiv.org/pdf/2201.07013v1"
+    }
+  },
+  {
+    "title": "A New Cervical Cytology Dataset for Nucleus Detection and Image\n  Classification (Cervix93) and Methods for Cervical Nucleus Detection",
+    "authors": [
+      "\nHady Ahmady Phoulady\n",
+      "\nPeter R. Mouton\n"
+    ],
+    "published": "2018-11-23T19:41:47Z",
+    "summary": "  Analyzing Pap cytology slides is an important tasks in detecting and grading\nprecancerous and cancerous cervical cancer stages. Processing cytology images\nusually involve segmenting nuclei and overlapping cells. We introduce a\ncervical cytology dataset that can be used to evaluate nucleus detection, as\nwell as image classification methods in the cytology image processing area.\nThis dataset contains 93 real image stacks with their grade labels and manually\nannotated nuclei within images. We also present two methods: a baseline method\nbased on a previously proposed approach, and a deep learning method, and\ncompare their results with other state-of-the-art methods. Both the baseline\nmethod and the deep learning method outperform other state-of-the-art methods\nby significant margins. Along with the dataset, we publicly make the evaluation\ncode and the baseline method available to download for further benchmarking.\n",
+    "source": "arXiv",
+    "relevance_score": 15,
+    "links": {
+      "main": "http://arxiv.org/abs/1811.09651v1",
+      "pdf": "http://arxiv.org/pdf/1811.09651v1"
+    }
+  },
+  {
+    "title": "Automated Segmentation of Cervical Nuclei in Pap Smear Images using\n  Deformable Multi-path Ensemble Model",
+    "authors": [
+      "\nJie Zhao\n",
+      "\nQuanzheng Li\n",
+      "\nXiang Li\n",
+      "\nHongfeng Li\n",
+      "\nLi Zhang\n"
+    ],
+    "published": "2018-12-03T02:30:45Z",
+    "summary": "  Pap smear testing has been widely used for detecting cervical cancers based\non the morphology properties of cell nuclei in microscopic image. An accurate\nnuclei segmentation could thus improve the success rate of cervical cancer\nscreening. In this work, a method of automated cervical nuclei segmentation\nusing Deformable Multipath Ensemble Model (D-MEM) is proposed. The approach\nadopts a U-shaped convolutional network as a backbone network, in which dense\nblocks are used to transfer feature information more effectively. To increase\nthe flexibility of the model, we then use deformable convolution to deal with\ndifferent nuclei irregular shapes and sizes. To reduce the predictive bias, we\nfurther construct multiple networks with different settings, which form an\nensemble model. The proposed segmentation framework has achieved\nstate-of-the-art accuracy on Herlev dataset with Zijdenbos similarity index\n(ZSI) of 0.933, and has the potential to be extended for solving other medical\nimage segmentation tasks.\n",
+    "source": "arXiv",
+    "relevance_score": 13,
+    "links": {
+      "main": "http://arxiv.org/abs/1812.00527v2",
+      "pdf": "http://arxiv.org/pdf/1812.00527v2"
+    }
+  },
+  {
+    "title": "Mueller matrix based characterization of Cervical tissue sections: A\n  quantitative comparison of Polar and Differential decomposition methods",
+    "authors": [
+      "\nNishkarsh Kumar\n",
+      "\nJeeban Kumar Nayak\n",
+      "\nAsima Pradhan\n",
+      "\nNirmalya Ghosh\n"
+    ],
+    "published": "2023-06-20T09:38:47Z",
+    "summary": "  Detection of cervical intraepithelial Neoplasia (CIN) at the early stage\nenables prevention of cervical cancer, which is one of the leading cause of\ncancer deaths among women. Recently there is a great interest to use the\noptical polarimetry as a non-invasive diagnosis tool to characterize the\ncervical tissues. In this context, it is crucial to validate the performance of\nvarious Mueller matrix decomposition techniques, that are utilized to extract\nthe intrinsic polarization properties of complex turbid media, such as\nbiological tissues. The aim of the work is to quantitatively compare the\nperformance of polar and differential MM decomposition methods for probing the\npolarization properties in various complex optical media. Complete polarization\nresponses of the cervical tissue sections, and other media are recorded by\npreparing a home-built Mueller matrix imaging set up with a spatial resolution\nof 400 nm. The Mueller matrices are then processed with the polar and\ndifferential decomposition methods to separate, and quantify the individual\npolarization parameters. ronounced differences in the extracted polarization\nproperties are observed for different CIN grades with both the decomposition\nmethods. Our results indicate that the differential decomposition of MM have\ncertain advantages over the polar decomposition method to extract the intrinsic\npolarization properties of a complex tissue medium. The quantified polarization\nparameters obtained through the decomposition methods can be used as useful\nmetrics to distinguish between the different grades of CIN, and to describe the\nhealing efficiency of a self-healing organic crystal. Thus the Mueller matrix\npolarimetry shows great potential as an label-free, non-invasive diagnostic and\nimaging tool with potential applications in biomedical clinical research, and\nin various other disciplines.\n",
+    "source": "arXiv",
+    "relevance_score": 13,
+    "links": {
+      "main": "http://arxiv.org/abs/2306.11411v1",
+      "pdf": "http://arxiv.org/pdf/2306.11411v1"
+    }
+  },
+  {
+    "title": "Ensembles of Radial Basis Function Networks for Spectroscopic Detection\n  of Cervical Pre-Cancer",
+    "authors": [
+      "\nKagan Tumer\n",
+      "\nNirmala Ramanujam\n",
+      "\nJoydeep Ghosh\n",
+      "\nRebecca Richards-Kortum\n"
+    ],
+    "published": "1999-05-20T18:28:15Z",
+    "summary": "  The mortality related to cervical cancer can be substantially reduced through\nearly detection and treatment. However, current detection techniques, such as\nPap smear and colposcopy, fail to achieve a concurrently high sensitivity and\nspecificity.\n  In vivo fluorescence spectroscopy is a technique which quickly,\nnon-invasively and quantitatively probes the biochemical and morphological\nchanges that occur in pre-cancerous tissue.\n  A multivariate statistical algorithm was used to extract clinically useful\ninformation from tissue spectra acquired from 361 cervical sites from 95\npatients at 337, 380 and 460 nm excitation wavelengths. The multivariate\nstatistical analysis was also employed to reduce the number of fluorescence\nexcitation-emission wavelength pairs required to discriminate healthy tissue\nsamples from pre-cancerous tissue samples. The use of connectionist methods\nsuch as multi layered perceptrons, radial basis function networks, and\nensembles of such networks was investigated. RBF ensemble algorithms based on\nfluorescence spectra potentially provide automated, and near real-time\nimplementation of pre-cancer detection in the hands of non-experts. The results\nare more reliable, direct and accurate than those achieved by either human\nexperts or multivariate statistical algorithms.\n",
+    "source": "arXiv",
+    "relevance_score": 12,
+    "links": {
+      "main": "http://arxiv.org/abs/cs/9905011v1",
+      "pdf": "http://arxiv.org/pdf/cs/9905011v1"
+    }
+  },
+  {
+    "title": "Synthetic Augmentation and Feature-based Filtering for Improved Cervical\n  Histopathology Image Classification",
+    "authors": [
+      "\nYuan Xue\n",
+      "\nQianying Zhou\n",
+      "\nJiarong Ye\n",
+      "\nL. Rodney Long\n",
+      "\nSameer Antani\n",
+      "\nCarl Cornwell\n",
+      "\nZhiyun Xue\n",
+      "\nXiaolei Huang\n"
+    ],
+    "published": "2019-07-24T18:54:11Z",
+    "summary": "  Cervical intraepithelial neoplasia (CIN) grade of histopathology images is a\ncrucial indicator in cervical biopsy results. Accurate CIN grading of\nepithelium regions helps pathologists with precancerous lesion diagnosis and\ntreatment planning. Although an automated CIN grading system has been desired,\nsupervised training of such a system would require a large amount of expert\nannotations, which are expensive and time-consuming to collect. In this paper,\nwe investigate the CIN grade classification problem on segmented epithelium\npatches. We propose to use conditional Generative Adversarial Networks (cGANs)\nto expand the limited training dataset, by synthesizing realistic cervical\nhistopathology images. While the synthetic images are visually appealing, they\nare not guaranteed to contain meaningful features for data augmentation. To\ntackle this issue, we propose a synthetic-image filtering mechanism based on\nthe divergence in feature space between generated images and class centroids in\norder to control the feature quality of selected synthetic images for data\naugmentation. Our models are evaluated on a cervical histopathology image\ndataset with a limited number of patch-level CIN grade annotations. Extensive\nexperimental results show a significant improvement of classification accuracy\nfrom 66.3% to 71.7% using the same ResNet18 baseline classifier after\nleveraging our cGAN generated images with feature-based filtering, which\ndemonstrates the effectiveness of our models.\n",
+    "source": "arXiv",
+    "relevance_score": 12,
+    "links": {
+      "main": "http://arxiv.org/abs/1907.10655v1",
+      "pdf": "http://arxiv.org/pdf/1907.10655v1"
+    }
+  },
+  {
+    "title": "Computer-Aided Diagnosis of Label-Free 3-D Optical Coherence Microscopy\n  Images of Human Cervical Tissue",
+    "authors": [
+      "\nYutao Ma\n",
+      "\nTao Xu\n",
+      "\nXiaolei Huang\n",
+      "\nXiaofang Wang\n",
+      "\nCanyu Li\n",
+      "\nJason Jerwick\n",
+      "\nYuan Ning\n",
+      "\nXianxu Zeng\n",
+      "\nBaojin Wang\n",
+      "\nYihong Wang\n",
+      "\nZhan Zhang\n",
+      "\nXiaoan Zhang\n",
+      "\nChao Zhou\n"
+    ],
+    "published": "2018-09-17T16:45:13Z",
+    "summary": "  Objective: Ultrahigh-resolution optical coherence microscopy (OCM) has\nrecently demonstrated its potential for accurate diagnosis of human cervical\ndiseases. One major challenge for clinical adoption, however, is the steep\nlearning curve clinicians need to overcome to interpret OCM images. Developing\nan intelligent technique for computer-aided diagnosis (CADx) to accurately\ninterpret OCM images will facilitate clinical adoption of the technology and\nimprove patient care. Methods: 497 high-resolution 3-D OCM volumes (600\ncross-sectional images each) were collected from 159 ex vivo specimens of 92\nfemale patients. OCM image features were extracted using a convolutional neural\nnetwork (CNN) model, concatenated with patient information (e.g., age, HPV\nresults), and classified using a support vector machine classifier. Ten-fold\ncross-validations were utilized to test the performance of the CADx method in a\nfive-class classification task and a binary classification task. Results: An\n88.3 plus or minus 4.9% classification accuracy was achieved for five\nfine-grained classes of cervical tissue, namely normal, ectropion, low-grade\nand high-grade squamous intraepithelial lesions (LSIL and HSIL), and cancer. In\nthe binary classification task (low-risk [normal, ectropion and LSIL] vs.\nhigh-risk [HSIL and cancer]), the CADx method achieved an area-under-the-curve\n(AUC) value of 0.959 with an 86.7 plus or minus 11.4% sensitivity and 93.5 plus\nor minus 3.8% specificity. Conclusion: The proposed deep-learning based CADx\nmethod outperformed three human experts. It was also able to identify\nmorphological characteristics in OCM images that were consistent with\nhistopathological interpretations. Significance: Label-free OCM imaging,\ncombined with deep-learning based CADx methods, hold a great promise to be used\nin clinical settings for the effective screening and diagnosis of cervical\ndiseases.\n",
+    "source": "arXiv",
+    "relevance_score": 11,
+    "links": {
+      "doi": "http://dx.doi.org/10.1109/TBME.2018.2890167",
+      "main": "http://arxiv.org/abs/1809.10196v1",
+      "pdf": "http://arxiv.org/pdf/1809.10196v1"
+    }
+  },
+  {
+    "title": "Multiclass Classification of Cervical Cancer Tissues by Hidden Markov\n  Model",
+    "authors": [
+      "\nSabyasachi Mukhopadhyay\n",
+      "\nSanket Nandan\n",
+      "\nIndrajit Kurmi\n"
+    ],
+    "published": "2015-12-18T16:17:35Z",
+    "summary": "  In this paper, we report a hidden Markov model based multiclass\nclassification of cervical cancer tissues. This model has been validated\ndirectly over time series generated by the medium refractive index fluctuations\nextracted from differential interference contrast images of healthy and\ndifferent stages of cancer tissues. The method shows promising results for\nmulticlass classification with higher accuracy.\n",
+    "source": "arXiv",
+    "relevance_score": 10,
+    "links": {
+      "main": "http://arxiv.org/abs/1512.06014v2",
+      "pdf": "http://arxiv.org/pdf/1512.06014v2"
+    }
+  },
+  {
+    "title": "Colposcopy referrals and CIN3 detection after triage by host cell DNA methylation and/or HPV genotyping in HPV positive women with low-grade cytology from a population-based Dutch primary HPV screening trial.",
+    "authors": [
+      {
+        "name": "Verhoef L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Bleeker MCG",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Polman N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kroon KR",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Steenbergen RDM",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ebisch RMF",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Melchers WJG",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Bekkers RLM",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Molijn AC",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "van Kemenade F",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Meijer CJLM",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Heideman DAM",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Berkhof J",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Mar 1",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39686532",
+    "relevance_score": 10,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39686532/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39686532/"
+    }
+  },
+  {
+    "title": "What Are the Current HPV Types Contributing to Cervical High-Grade Squamous Intraepithelial Lesions, Adenocarcinoma In Situ, and Early Cervical Cancer?",
+    "authors": [
+      {
+        "name": "Salman L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Gien LT",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Vicus D",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Shier M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kupets R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Gibbons S",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ashfaq S",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Severini A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Covens A",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Jan 31",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39894352",
+    "relevance_score": 9,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39894352/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39894352/"
+    }
+  },
+  {
+    "title": "Genome-integrated Human Papilloma Viruses Testing: A Complement to Colposcopy-guided Biopsy for Cervical Cancer Screening.",
+    "authors": [
+      {
+        "name": "Xie H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Li L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zhu T",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zhou H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "He L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Yang F",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Chen SM",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Huang XY",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ma D",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hu T",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zhuang L",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Dec",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39673000",
+    "relevance_score": 9,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39673000/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39673000/"
+    }
+  },
+  {
+    "title": "CellGAN: Conditional Cervical Cell Synthesis for Augmenting\n  Cytopathological Image Classification",
+    "authors": [
+      "\nZhenrong Shen\n",
+      "\nMaosong Cao\n",
+      "\nSheng Wang\n",
+      "\nLichi Zhang\n",
+      "\nQian Wang\n"
+    ],
+    "published": "2023-07-12T14:13:54Z",
+    "summary": "  Automatic examination of thin-prep cytologic test (TCT) slides can assist\npathologists in finding cervical abnormality for accurate and efficient cancer\nscreening. Current solutions mostly need to localize suspicious cells and\nclassify abnormality based on local patches, concerning the fact that whole\nslide images of TCT are extremely large. It thus requires many annotations of\nnormal and abnormal cervical cells, to supervise the training of the\npatch-level classifier for promising performance. In this paper, we propose\nCellGAN to synthesize cytopathological images of various cervical cell types\nfor augmenting patch-level cell classification. Built upon a lightweight\nbackbone, CellGAN is equipped with a non-linear class mapping network to\neffectively incorporate cell type information into image generation. We also\npropose the Skip-layer Global Context module to model the complex spatial\nrelationship of the cells, and attain high fidelity of the synthesized images\nthrough adversarial learning. Our experiments demonstrate that CellGAN can\nproduce visually plausible TCT cytopathological images for different cell\ntypes. We also validate the effectiveness of using CellGAN to greatly augment\npatch-level cell classification performance.\n",
+    "source": "arXiv",
+    "relevance_score": 9,
+    "links": {
+      "main": "http://arxiv.org/abs/2307.06182v1",
+      "pdf": "http://arxiv.org/pdf/2307.06182v1"
+    }
+  },
+  {
+    "title": "Feature based Sequential Classifier with Attention Mechanism",
+    "authors": [
+      "\nSudhir Sornapudi\n",
+      "\nR. Joe Stanley\n",
+      "\nWilliam V. Stoecker\n",
+      "\nRodney Long\n",
+      "\nZhiyun Xue\n",
+      "\nRosemary Zuna\n",
+      "\nShelliane R. Frazier\n",
+      "\nSameer Antani\n"
+    ],
+    "published": "2020-07-22T12:54:30Z",
+    "summary": "  Cervical cancer is one of the deadliest cancers affecting women globally.\nCervical intraepithelial neoplasia (CIN) assessment using histopathological\nexamination of cervical biopsy slides is subject to interobserver variability.\nAutomated processing of digitized histopathology slides has the potential for\nmore accurate classification for CIN grades from normal to increasing grades of\npre-malignancy: CIN1, CIN2 and CIN3. Cervix disease is generally understood to\nprogress from the bottom (basement membrane) to the top of the epithelium. To\nmodel this relationship of disease severity to spatial distribution of\nabnormalities, we propose a network pipeline, DeepCIN, to analyze\nhigh-resolution epithelium images (manually extracted from whole-slide images)\nhierarchically by focusing on localized vertical regions and fusing this local\ninformation for determining Normal/CIN classification. The pipeline contains\ntwo classifier networks: 1) a cross-sectional, vertical segment-level sequence\ngenerator (two-stage encoder model) is trained using weak supervision to\ngenerate feature sequences from the vertical segments to preserve the\nbottom-to-top feature relationships in the epithelium image data; 2) an\nattention-based fusion network image-level classifier predicting the final CIN\ngrade by merging vertical segment sequences. The model produces the CIN\nclassification results and also determines the vertical segment contributions\nto CIN grade prediction. Experiments show that DeepCIN achieves\npathologist-level CIN classification accuracy.\n",
+    "source": "arXiv",
+    "relevance_score": 9,
+    "links": {
+      "main": "http://arxiv.org/abs/2007.11392v1",
+      "pdf": "http://arxiv.org/pdf/2007.11392v1"
+    }
+  },
+  {
+    "title": "Cervical cancer screening: comparative study of human papillomavirus detection between cervical cytology and urine samples.",
+    "authors": [
+      {
+        "name": "Song J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wang J",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb 19",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39972339",
+    "relevance_score": 8,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39972339/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39972339/"
+    }
+  },
+  {
+    "title": "Development, validation, and clinical application of a machine learning model for risk stratification and management of cervical cancer screening based on full-genotyping hrHPV test (SMART-HPV): a modelling study.",
+    "authors": [
+      {
+        "name": "Dong B",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lu Z",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Yang T",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wang J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zhang Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Tuo X",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wang J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lin S",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Cai H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Cheng H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Cao X",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Huang X",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zheng Z",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Miao C",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wang Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Xue H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Xu S",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Liu X",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zou H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Sun P",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39926367",
+    "relevance_score": 8,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39926367/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39926367/"
+    }
+  },
+  {
+    "title": "Home-based urinary HPV self-sampling for the detection of cervical cancer precursor lesions: attitudes and preferences from Belgian females participating in the CASUS study.",
+    "authors": [
+      {
+        "name": "Hendrickx JO",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Van Keer S",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Donders G",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Weyers S",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Doyen J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Beyers KCL",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Rios-Cortes A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Meers N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Téblick L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Vankerckhoven VVJ",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb 12",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39934916",
+    "relevance_score": 7,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39934916/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39934916/"
+    }
+  },
+  {
+    "title": "Cervical screening with primary HPV testing or cytology in a population of women in which those aged 33 years or younger had previously been offered HPV vaccination: Results of the Compass pilot randomised trial.",
+    "authors": [
+      {
+        "name": "Canfell K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Caruana M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Gebski V",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Darlington-Brown J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Heley S",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Brotherton J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Gertig D",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Jennett CJ",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Farnsworth A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Tan J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wrede CD",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Castle PE",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Saville M",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2017 Sep",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "28926579",
+    "relevance_score": 7,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/28926579/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/28926579/"
+    }
+  },
+  {
+    "title": "Digital colposcopy image analysis techniques requirements and their role in clinical diagnosis: a systematic review.",
+    "authors": [
+      {
+        "name": "Tamang P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Gupta M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Thatal A",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Oct",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39370601",
+    "relevance_score": 7,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39370601/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39370601/"
+    }
+  },
+  {
+    "title": "Addressing the cervical cancer burden in the Rio Grande Valley of Texas through a multi-component program to improve screening and diagnostic follow-up: A retrospective cohort study.",
+    "authors": [
+      {
+        "name": "Varon ML",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Salcedo MP",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Fellman B",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Troisi C",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Gowen R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Daheri M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Rodriguez A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Toscano P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Guerra L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Gasca M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Cavazos B",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Marin E",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Fisher-Hoch S",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Fernandez ME",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Reininger B",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ruosha L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Baker E",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Schmeler K",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb 14",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39954550",
+    "relevance_score": 6,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39954550/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39954550/"
+    }
+  },
+  {
+    "title": "Performance of Government-Financed Cervical Cancer Screening in Hunan, China and Optimization of Triage Strategies.",
+    "authors": [
+      {
+        "name": "Liao Z",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zou K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lei M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wu Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Yang W",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zhang Y",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb 14",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39951625",
+    "relevance_score": 6,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39951625/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39951625/"
+    }
+  },
+  {
+    "title": "The effect of hrHPV prevalence on cervical cancer screening strategies: a cost-effectiveness study of Bangladesh.",
+    "authors": [
+      {
+        "name": "Pan F",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "van der Schans J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Nazrul N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Koot JAR",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Beltman J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Greuter MJW",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "de Bock GH",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb 11",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39934769",
+    "relevance_score": 6,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39934769/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39934769/"
+    }
+  },
+  {
+    "title": "Cervical cancer screening: Impact of collection technique on human papillomavirus detection and genotyping.",
+    "authors": [
+      {
+        "name": "Young AP",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Olorunfemi M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Morrison L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kelley SA",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Laurie A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "McEvoy A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Schneiderhan J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Prussack J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "O'Dwyer MC",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Rockwell P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zazove P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Gabison J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Chargot J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Gallagher K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Sen A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Chen D",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Haro EA",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Butcher EA",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Alves ML",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "El Khoury C",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Dendrinos ML",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Brashear N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Smith R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lieberman RW",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Saunders N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Campbell E",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Walline HM",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Harper DM",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39906308",
+    "relevance_score": 6,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39906308/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39906308/"
+    }
+  },
+  {
+    "title": "Digital cervicography using mobile phones with real-time consultation (DCRC) to improve performance of Visual Inspection with Acetic Acid (VIA) in cervical cancer screening of HIV-infected women. A cross-sectional study.",
+    "authors": [
+      {
+        "name": "Tonui P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Itsura P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Omenge O",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Faiza N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Keter A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Mburu A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Oguda J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hassan AR",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Cu-Uvin S",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39817117",
+    "relevance_score": 6,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39817117/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39817117/"
+    }
+  },
+  {
+    "title": "Automated analysis of digital medical images in cervical cancer screening: A systematic review.",
+    "authors": [
+      {
+        "name": "Ledwaba L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Saidu R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Malila B",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kuhn L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Mutsvangwa TEM",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Sep 27",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39399017",
+    "relevance_score": 6,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39399017/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39399017/"
+    }
+  },
+  {
+    "title": "Usability of a smartphone-compatible, confocal micro-endoscope for cervical cancer screening in resource-limited settings.",
+    "authors": [
+      {
+        "name": "Kadama-Makanga P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Semeere A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Laker-Oketta M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Mubiru M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lukande R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Huchko M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Freeman E",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kulkarni N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Martin J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kang D",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Nakalembe M",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Sep 2",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39223605",
+    "relevance_score": 6,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39223605/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39223605/"
+    }
+  },
+  {
+    "title": "Feasibility study of hyperspectral colposcopy as a novel tool for detecting precancerous cervical lesions.",
+    "authors": [
+      {
+        "name": "Vega C",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Medina N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Quintana-Quintana L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Leon R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Fabelo H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Rial J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Martín A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Callico GM",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Jan 4",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39755771",
+    "relevance_score": 5,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39755771/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39755771/"
+    }
+  },
+  {
+    "title": "Early Cervical Cancer Diagnosis with SWIN-Transformer and Convolutional Neural Networks.",
+    "authors": [
+      {
+        "name": "Mohammed FA",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Tune KK",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Mohammed JA",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wassu TA",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Muhie S",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Oct 14",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39451609",
+    "relevance_score": 5,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39451609/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39451609/"
+    }
+  },
+  {
+    "title": "Cervical cancer in Malaysia.",
+    "authors": [
+      {
+        "name": "Noor Mohamad NA",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Omar J",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Oct",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39030916",
+    "relevance_score": 5,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39030916/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39030916/"
+    }
+  },
+  {
+    "title": "Yield of endocervical curettage in detecting cervical intraepithelial neoplasia grade 2 or higher during colposcopy: A prospective, cross-sectional study.",
+    "authors": [
+      {
+        "name": "Jareemit N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Theerarojanapong L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Laokulrath N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Achariyapota V",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Khemworapong K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kuljarasnont S",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ittiamornlert P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Poonyakanok V",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Inthasorn P",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Dec 4",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39629968",
+    "relevance_score": 5,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39629968/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39629968/"
+    }
+  },
+  {
+    "title": "p16/ki-67 dual stain triage of individuals positive for HPV to detect cervical precancerous lesions.",
+    "authors": [
+      {
+        "name": "Harper DM",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Paczos T",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ridder R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Huh WK",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb 4",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39901857",
+    "relevance_score": 4,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39901857/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39901857/"
+    }
+  },
+  {
+    "title": "Predicting the risk of high-grade precancerous cervical lesions based on high-risk HPV typing in Changsha China.",
+    "authors": [
+      {
+        "name": "Xiao Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Liu R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wang S",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wang Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Miao W",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Chen M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Liu X",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Chen Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wen Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Deng Z",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Dai L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Mao Z",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "He J",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Jan 20",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39833893",
+    "relevance_score": 4,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39833893/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39833893/"
+    }
+  },
+  {
+    "title": "High rate of persistent HPV detection after diagnostic cervical excision in older screen-positive women.",
+    "authors": [
+      {
+        "name": "Gustafson LW",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Krog L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Sardini B",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Tranberg M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Petersen LK",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Andersen B",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Bor P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hammer A",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39745094",
+    "relevance_score": 4,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39745094/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39745094/"
+    }
+  },
+  {
+    "title": "RL-Based Guidance in Outpatient Hysteroscopy Training: A Feasibility\n  Study",
+    "authors": [
+      "\nVladimir Poliakov\n",
+      "\nKenan Niu\n",
+      "\nEmmanuel Vander Poorten\n",
+      "\nDzmitry Tsetserukou\n"
+    ],
+    "published": "2022-11-26T11:16:17Z",
+    "summary": "  This work presents an RL-based agent for outpatient hysteroscopy training.\nHysteroscopy is a gynecological procedure for examination of the uterine\ncavity. Recent advancements enabled performing this type of intervention in the\noutpatient setup without anaesthesia. While being beneficial to the patient,\nthis approach introduces new challenges for clinicians, who should take\nadditional measures to maintain the level of patient comfort and prevent tissue\ndamage. Our prior work has presented a platform for hysteroscopic training with\nthe focus on the passage of the cervical canal. With this work, we aim to\nextend the functionality of the platform by designing a subsystem that\nautonomously performs the task of the passage of the cervical canal. This\nfeature can later be used as a virtual instructor to provide educational cues\nfor trainees and assess their performance. The developed algorithm is based on\nthe soft actor critic approach to smooth the learning curve of the agent and\nensure uniform exploration of the workspace. The designed algorithm was tested\nagainst the performance of five clinicians. Overall, the algorithm demonstrated\nhigh efficiency and reliability, succeeding in 98% of trials and outperforming\nthe expert group in three out of four measured metrics.\n",
+    "source": "arXiv",
+    "relevance_score": 4,
+    "links": {
+      "main": "http://arxiv.org/abs/2211.14541v1",
+      "pdf": "http://arxiv.org/pdf/2211.14541v1"
+    }
+  },
+  {
+    "title": "The Effect of Women's Perceptions of Their Nurses' Communication on Their Distress and Fear of Cancer During Colposcopy: A Multicenter Study.",
+    "authors": [
+      {
+        "name": "Akıncı G",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Aydın R",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb 17",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39960288",
+    "relevance_score": 3,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39960288/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39960288/"
+    }
+  },
+  {
+    "title": "Clinician Characteristics Associated With Adoption of Updated National Colposcopy Guidelines.",
+    "authors": [
+      {
+        "name": "Fuzzell L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Brownstein NC",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Fontenot HB",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lake P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Michel A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Perkins RB",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Vadaparampil ST",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb 14",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39951624",
+    "relevance_score": 3,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39951624/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39951624/"
+    }
+  },
+  {
+    "title": "A Mixed-Methods Study Examining Guideline-Concordant Colposcopy Practices Among a National Cohort of US Colposcopists.",
+    "authors": [
+      {
+        "name": "Perkins RB",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Fuzzell L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Brownstein NC",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Fontenot HB",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Michel A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Neggers M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lake P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Vadaparampil ST",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb 10",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39928917",
+    "relevance_score": 3,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39928917/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39928917/"
+    }
+  },
+  {
+    "title": "GRAND: A large-scale dataset and benchmark for cervical intraepithelial Neoplasia grading with fine-grained lesion description.",
+    "authors": [
+      {
+        "name": "Li Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Liu ZH",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Xue P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Chen J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ma K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Qian T",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zheng Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Qiao YL",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2021 May",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "33690025",
+    "relevance_score": 3,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/33690025/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/33690025/"
+    }
+  },
+  {
+    "title": "Application of deep learning to the classification of images from colposcopy.",
+    "authors": [
+      {
+        "name": "Sato M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Horie K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hara A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Miyamoto Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kurihara K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Tomio K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Yokota H",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2018 Mar",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "29456725",
+    "relevance_score": 3,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/29456725/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/29456725/"
+    }
+  },
+  {
+    "title": "Automated Image Clarity Detection for the Improvement of Colposcopy Imaging with Multiple Devices.",
+    "authors": [
+      {
+        "name": "Ekem L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Skerrett E",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Huchko MJ",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ramanujam N",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39669100",
+    "relevance_score": 3,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39669100/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39669100/"
+    }
+  },
+  {
+    "title": "A pilot study of upcycled smartphone-based colposcopy for visual inspection of cervix performed by community healthcare workers in rural Vietnam.",
+    "authors": [
+      {
+        "name": "Yim GW",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lee J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Yang K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lee CH",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Huy NVQ",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Vo MT",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Yoon S",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39175279",
+    "relevance_score": 3,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39175279/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39175279/"
+    }
+  },
+  {
+    "title": "Accuracy of screening tests for cervical precancer in women living with HIV in low-resource settings: a paired prospective study in Lusaka, Zambia.",
+    "authors": [
+      {
+        "name": "Taghavi K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Moono M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Mwanahamuntu M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Roumet M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Limacher A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kapesa H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Madliwa T",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Rutjes A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Basu P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Low N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Manasyan A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Bohlius J",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39886160",
+    "relevance_score": 3,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39886160/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39886160/"
+    }
+  },
+  {
+    "title": "Human papillomavirus type 16 and 18 viral clearance and progression to precancer among women aged 18-25 years enrolled in the Costa Rica HPV prophylactic vaccine trial (CVT).",
+    "authors": [
+      {
+        "name": "Sierra MS",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Carvajal LJ",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Dull P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Herrero R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Schussler J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hildesheim A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Schiller JT",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ocampo R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Liu D",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kreimer AR",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Rodriguez AC",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lowy DR",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Porras C",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Costa Rica HPV Vaccine Trial (CVT) Group",
+        "authtype": "CollectiveName",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb 16",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39961279",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39961279/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39961279/"
+    }
+  },
+  {
+    "title": "High-Grade Cervical Intraepithelial Neoplasia: Impact of Colposcopic Lesion Area on Systemic Immune Responses.",
+    "authors": [
+      {
+        "name": "Mantoani PTS",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Micheli DC",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Jammal MP",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Vieira JH",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Michelin MA",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ferreira CGX",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Silva HN",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Murta EFC",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Nomelini RS",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39959756",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39959756/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39959756/"
+    }
+  },
+  {
+    "title": "Predictors for regression and progression of actively surveilled cervical intraepithelial neoplasia grade 2: A prospective cohort study.",
+    "authors": [
+      {
+        "name": "Bergqvist L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Virtanen A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kalliala I",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Bützow R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Jakobsson M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Heinonen A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Louvanto K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Dillner J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Nieminen P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Aro K",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb 10",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39930620",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39930620/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39930620/"
+    }
+  },
+  {
+    "title": "Risk of high-grade cervical lesions in the second round of primary human papillomavirus testing in CervicalScreen Norway: A population-based cohort study.",
+    "authors": [
+      {
+        "name": "Bjørge T",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Støer NC",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hverven SK",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Nygård M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Tropé A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Engesæter B",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb 8",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39921417",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39921417/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39921417/"
+    }
+  },
+  {
+    "title": "The application of magnifying endoscopy in the diagnosis of cervical lesions.",
+    "authors": [
+      {
+        "name": "Li Q",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wang J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Sun T",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zhang H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Chen L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wang Q",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Sui L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hua K",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Jan 30",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39906848",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39906848/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39906848/"
+    }
+  },
+  {
+    "title": "A multimodal deep learning model for cervical pre-cancers and cancers prediction: Development and internal validation study.",
+    "authors": [
+      {
+        "name": "Madathil S",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Dhouib M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lelong Q",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Bourassine A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Monsonego J",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Mar",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39847948",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39847948/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39847948/"
+    }
+  },
+  {
+    "title": "Clinical application of photoacoustic imaging for cervical precursor lesion detection.",
+    "authors": [
+      {
+        "name": "Okawa KS",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Okawa S",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Sasa H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ishihara M",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Jan",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39361106",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39361106/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39361106/"
+    }
+  },
+  {
+    "title": "A Deep Learning Model for Cervical Optical Coherence Tomography Image Classification.",
+    "authors": [
+      {
+        "name": "Zuo X",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Liu J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hu M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "He Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hong L",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Sep 11",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39335688",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39335688/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39335688/"
+    }
+  },
+  {
+    "title": "Comparison of In Vivo Study of Co-Polarized and Cross-Polarized Fluorescence Spectroscopy to Co-Minus Cross-Polarized Fluorescence Spectroscopy to Diagnose Precancerous Cervical Lesions by Handheld Probe.",
+    "authors": [
+      {
+        "name": "Pandey K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Pradhan A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Bhagoliwal A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Agarwal A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Mani S",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Aug",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39280199",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39280199/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39280199/"
+    }
+  },
+  {
+    "title": "Examining the Association Between the COVID-19 Pandemic and the Rate of Diagnostic Tests for Breast, Cervical, and Colorectal Cancer in Manitoba, Canada.",
+    "authors": [
+      {
+        "name": "Decker KM",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Musto G",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Bucher O",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Czaykowski P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hebbard P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kim JO",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Singh H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Thiessen M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Feely A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Galloway K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lambert P",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Jan-Dec",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39053019",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39053019/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39053019/"
+    }
+  },
+  {
+    "title": "Prognostic Significance of the Detection of Human Papilloma Virus L1 Protein in Smears of Cervical Intraepithelial Neoplasia Grade 3 in Pregnant Women.",
+    "authors": [
+      {
+        "name": "Stuebs FA",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Dietl AK",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Schulmeyer CE",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Behrens AS",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Seibold A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Brueckner L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Schleicher O",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Adler W",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Geppert C",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hartman A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Knöll A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Beckmann MW",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Gass P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hilfrich R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Mehlhorn G",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39890202",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39890202/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39890202/"
+    }
+  },
+  {
+    "title": "Comparison of photodynamic therapy and LEEP in women of reproductive age with cervical squamous intraepithelial neoplasia 2 (CIN2): A prospective observational study in China.",
+    "authors": [
+      {
+        "name": "Li C",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wang X",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Cui Q",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "He M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Chen M",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Jan 22",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39855444",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39855444/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39855444/"
+    }
+  },
+  {
+    "title": "Risk-based triage strategy by extended HPV genotyping for women with ASC-US cytology.",
+    "authors": [
+      {
+        "name": "Rao X",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wang YH",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Chen RZ",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wu QQ",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zhang XF",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Fu YF",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wang XY",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Li X",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Dec",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39823191",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39823191/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39823191/"
+    }
+  },
+  {
+    "title": "The immediate risk of cancer and its precursor lesions in women with abnormal cervical glandular cytology.",
+    "authors": [
+      {
+        "name": "Li Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Chen Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lin W",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Chen K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lv W",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zhou F",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39744487",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39744487/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39744487/"
+    }
+  },
+  {
+    "title": "Evaluating PAX1/JAM3 methylation for triage in HPV 16/18-infected women.",
+    "authors": [
+      {
+        "name": "Fei J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zhai L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wang J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zhu X",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Liu P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wang L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ma D",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Li L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zhou J",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Dec 26",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39726021",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39726021/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39726021/"
+    }
+  },
+  {
+    "title": "Human papillomavirus genotype and cycle threshold value from self-samples and risk of high-grade cervical lesions: A post hoc analysis of a modified stepped-wedge implementation feasibility trial.",
+    "authors": [
+      {
+        "name": "Lei J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Cuschieri K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Patel H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lawrence A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Deats K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "YouScreen trial team",
+        "authtype": "CollectiveName",
+        "clusterid": ""
+      },
+      {
+        "name": "Sasieni P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lim AWW",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Dec",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39666756",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39666756/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39666756/"
+    }
+  },
+  {
+    "title": "High Risk of HPV Related Preneoplastic and Neoplastic Vulvar Lesions in Women Living With HIV.",
+    "authors": [
+      {
+        "name": "Agarossi A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Savasi V",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Frangipane C",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Parisi F",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Agarossi A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Dominoni M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Gardella B",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Dec 9",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39652424",
+    "relevance_score": 2,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39652424/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39652424/"
+    }
+  },
+  {
+    "title": "Lymphangiogenesis and carcinoma in the uterine cervix: Joint and\n  hierarchical models for random cluster sizes and continuous outcomes",
+    "authors": [
+      "\nT. R. Fanshawe\n",
+      "\nC. M. Chapman\n",
+      "\nT. Crick\n"
+    ],
+    "published": "2016-01-29T13:29:30Z",
+    "summary": "  Although the lymphatic system is clearly linked to the metastasis of most\nhuman carcinomas, the mechanisms by which lymphangiogenesis occurs in response\nto the presence of carcinoma remain unclear. Hierarchical models are presented\nto investigate the properties of lymphatic vessel production in 2997 fields\ntaken from 20 individuals with invasive carcinoma, 21 individuals with cervical\nintraepithelial neoplasia and 21 controls. Such data demonstrate a high degree\nof correlation within tumour samples from the same individual. Joint\nhierarchical models utilising shared random effects are discussed and fitted in\na Bayesian framework to allow for the correlation between two key outcome\nmeasures: a random cluster size (the number of lymphatic vessels in a tissue\nsample) and a continuous outcome (vessel size). Results show that invasive\ncarcinoma samples are associated with increased production of smaller and more\nirregularly-shaped lymphatic vessels and suggest a mechanistic link between\ncarcinoma of the cervix and lymphangiogenesis.\n",
+    "source": "arXiv",
+    "relevance_score": 2,
+    "links": {
+      "doi": "http://dx.doi.org/10.1214/15-AOAS867",
+      "main": "http://arxiv.org/abs/1601.08097v1",
+      "pdf": "http://arxiv.org/pdf/1601.08097v1"
+    }
+  },
+  {
+    "title": "Modified swede colposcopic index versus modified reid index in colposcopic screening for premalignant & malignant lesions of the cervix: a cross-sectional analysis.",
+    "authors": [
+      {
+        "name": "Priya DS",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Arnav DA",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Mittal DS",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Pravina DP",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Murmu DS",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Gandhi DG",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "38959837",
+    "relevance_score": 1,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38959837/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38959837/"
+    }
+  },
+  {
+    "title": "Zipime-Weka-Schista study protocol: a longitudinal cohort study and economic evaluation of an integrated home-based approach for genital multipathogen screening in women, including female genital schistosomiasis, human papillomavirus, Trichomonas and HIV in Zambia.",
+    "authors": [
+      {
+        "name": "Shanaube K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ndubani R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kelly H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Webb E",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Mayaud P",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lamberti O",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Fitzpatrick J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kasese N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Sturt A",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Van Lieshout L",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Van Dam G",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Corstjens PLAM",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kosloff B",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Bond V",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hayes R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Terris-Prestholt F",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Webster B",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Vwalika B",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hansingo I",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ayles H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Bustinduy AL",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Jun 10",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "38858160",
+    "relevance_score": 1,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38858160/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/38858160/"
+    }
+  },
+  {
+    "title": "Skin Lesion Diagnosis Using Convolutional Neural Networks",
+    "authors": [
+      "\nDaniel Alonso Villanueva Nunez\n",
+      "\nYongmin Li\n"
+    ],
+    "published": "2023-05-18T17:15:08Z",
+    "summary": "  Cancerous skin lesions are one of the most common malignancies detected in\nhumans, and if not detected at an early stage, they can lead to death.\nTherefore, it is crucial to have access to accurate results early on to\noptimize the chances of survival. Unfortunately, accurate results are typically\nobtained by highly trained dermatologists, who may not be accessible to many\npeople, particularly in low-income and middle-income countries. Artificial\nIntelligence (AI) appears to be a potential solution to this problem, as it has\nproven to provide equal or even better diagnoses than healthcare professionals.\nThis project aims to address the issue by collecting state-of-the-art\ntechniques for image classification from various fields and implementing them.\nSome of these techniques include mixup, presizing, and test-time augmentation,\namong others. Three architectures were used for the implementation:\nDenseNet121, VGG16 with batch normalization, and ResNet50. The models were\ndesigned with two main purposes. First, to classify images into seven\ncategories, including melanocytic nevus, melanoma, benign keratosis-like\nlesions, basal cell carcinoma, actinic keratoses and intraepithelial carcinoma,\nvascular lesions, and dermatofibroma. Second, to classify images into benign or\nmalignant. The models were trained using a dataset of 8012 images, and their\nperformance was evaluated using 2003 images. It's worth noting that this model\nis trained end-to-end, directly from the image to the labels, without the need\nfor handcrafted feature extraction.\n",
+    "source": "arXiv",
+    "relevance_score": 1,
+    "links": {
+      "main": "http://arxiv.org/abs/2305.11125v1",
+      "pdf": "http://arxiv.org/pdf/2305.11125v1"
+    }
+  },
+  {
+    "title": "Safety of LEEP in Treating CIN 2-3 During Pregnancy.",
+    "authors": [
+      {
+        "name": "Siegler Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Bornstein J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lavie O",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Vaknin Z",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Kugelman N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Siegler E",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Israeli Society of Colposcopy and Cervical Pathology",
+        "authtype": "CollectiveName",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb 7",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39919721",
+    "relevance_score": 0,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39919721/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39919721/"
+    }
+  },
+  {
+    "title": "Major predictive factors for recurrence of CIN after treatment: an exploratory analysis towards a predictive model.",
+    "authors": [
+      {
+        "name": "Ricci C",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Di Pumpo M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Nicolotti N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Capelli G",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Zannoni GF",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Evangelista MT",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Scambia G",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "De Vincenzo RP",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Jan",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39911043",
+    "relevance_score": 0,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39911043/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39911043/"
+    }
+  },
+  {
+    "title": "Lobular endocervical glandular hyperplasia diagnosed during surveillance for Peutz-Jeghers Syndrome: A case report.",
+    "authors": [
+      {
+        "name": "Ichinose T",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Takasaki K",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Takahashi Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hirano M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Nishida H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Hiraike H",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Sasajima Y",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Nagasaka K",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Feb",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39895895",
+    "relevance_score": 0,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39895895/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39895895/"
+    }
+  },
+  {
+    "title": "Applying Results of Extended Genotyping to Management of Positive Cervicovaginal Human Papillomavirus Test Results: Enduring Guidelines.",
+    "authors": [
+      {
+        "name": "Massad LS",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Clarke MA",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Perkins RB",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Garcia F",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Chelmow D",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Cheung LC",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Darragh TM",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Egemen D",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Lorey TS",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Nayar R",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Newman M",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Risley C",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Smith RA",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Wentzensen N",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Enduring Consensus Cervical Cancer Screening and Management Guidelines Committee",
+        "authtype": "CollectiveName",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2025 Jan 10",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39791481",
+    "relevance_score": 0,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39791481/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39791481/"
+    }
+  },
+  {
+    "title": "Analysing the gene expression profiles of the orphan nuclear receptors NR4A1, NR4A2 and NR4A3 in premalignant lesions of the cervix and cervicitis.",
+    "authors": [
+      {
+        "name": "Cruz-Nieves RP",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ramírez-Rosales GE",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "González-Ramírez J",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Sánchez-Muñoz F",
+        "authtype": "Author",
+        "clusterid": ""
+      },
+      {
+        "name": "Ruiz-Hernández A",
+        "authtype": "Author",
+        "clusterid": ""
+      }
+    ],
+    "pubdate": "2024 Dec",
+    "summary": "",
+    "source": "PubMed",
+    "pmid": "39639963",
+    "relevance_score": 0,
+    "links": {
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39639963/",
+      "fulltext": "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/39639963/"
+    }
+  }
+]
